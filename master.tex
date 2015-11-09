@@ -1,0 +1,41 @@
+\input{preamble.tex}
+\begin{document}
+  %\listoffixmes
+  \include{Forside}
+
+
+  \pdfbookmark[0]{Title Page}{label:Titlepage}
+  \include{Titelblad}
+	\blankpage
+
+  \pdfbookmark[0]{\contentsname}{label:Contents}
+  \setcounter{tocdepth}{2}
+	\pagestyle{empty}
+  \listoffixmes
+  \tableofcontents
+  \listoffigures
+  \begingroup
+  \let\clearpage\relax
+  \listoftables
+  \endgroup
+	\clearpage
+	\pagestyle{BasicStyle}
+
+  \pagenumbering{arabic}
+  \include{Forord}\thispagestyle{empty}
+  \blankpage
+
+  \include{Indledning}
+  \include{Problemformulering}
+  %\include{Nytorv}
+  %\include{Problemanalyse}
+  %\include{Perspektivering}
+%  \include{Konklusion}
+
+
+  \pdfbookmark[0]{Bibliography}{label:Bibliography}
+  \printbibliography
+
+  \include{appendix}
+
+\end{document}

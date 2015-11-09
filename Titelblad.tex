@@ -1,0 +1,66 @@
+%mainfile: ../master.tex
+\markboth{Titlepage}{Titlepage} % Add to header
+
+\begin{nopagebreak}
+{\begin{center}
+    \begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+        \multicolumn{2}{@{}l@{}}{
+            \begin{minipage}[t]{1.0\textwidth}
+            \vspace{0.3cm}
+            \end{minipage}
+        }\\
+        \begin{minipage}[t]{0.49\textwidth}
+            \textbf{Titel}\\
+            Projekt Titel - Tekst\\
+
+            \textbf{Tema}\\
+            Tema indenfor uddanelsen\\
+
+            \textbf{Projekt Periode}\\
+            Efterårs Semester 2015\\
+
+            \textbf{Projekt Gruppe}\\
+            A405a\\
+
+            \textbf{Forfattere}\\
+            Abdul Massir Qauomi\\
+            Bjørn Carlson\\
+            Fatimah Daoud\\
+            Morten Bache Jacobsen\\
+            Rasmus Steffensen\\
+            Rong Liu\\
+
+            \textbf{Vejleder}\\
+            Katrine Rabjerg Meltofte\\
+
+            \textbf{Kopier}\\
+            2\\ % https://www.moodle.aau.dk/course/view.php?id=8838
+
+            \textbf{Antal Sider}\\
+            \pageref{LastPage}\\
+
+        \end{minipage}
+        &
+\begin{minipage}[t]{0.49\textwidth}
+\begin{flushright}
+    \includegraphics[height=3cm]{aau_logo_en.pdf}\\
+        \small \textbf{Byggeri og Anlæg 1. Semester} \\
+        \small \textbf{INSTITUT FOR BYGGERI OG ANLÆG}\\
+        \small Badehusvej 13 \\
+        \small 9000 Aalborg\\
+        \small \url{http://www.byggeri.aau.dk/}\\
+        \bigskip
+        \fbox{
+            \parbox{\linewidth}{
+            {\input{Synopsis.tex}
+            }
+        }}
+\end{flushright}
+\end{minipage}
+
+        \\
+    \end{tabular*}
+\end{center}
+}
+\end{nopagebreak}
+\newpage
