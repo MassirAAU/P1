@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.20)  9 NOV 2015 23:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.20)  10 NOV 2015 13:13
 entering extended mode
 **master.tex
 (master.tex
@@ -2764,7 +2764,7 @@ Package logreq Info: Writing requests to 'master.run.xml'.
 Here is how much of TeX's memory you used:
  49457 strings out of 493673
  1070456 string characters out of 3141517
- 1585919 words of memory out of 3000000
+ 1585936 words of memory out of 3000000
  51942 multiletter control sequences out of 15000+200000
  113529 words of font info for 121 fonts, out of 3000000 for 9000
  1026 hyphenation exceptions out of 8191
