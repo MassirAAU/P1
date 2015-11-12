@@ -6,18 +6,18 @@
 \contentsline {section}{\numberline {2.1}Nytorv f\IeC {\o }r 00'erne}{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}Generelt om Nytorv}{4}{section.2.2}
 \contentsline {section}{\numberline {2.3}Shared Space}{4}{section.2.3}
-\contentsline {section}{\numberline {2.4}F\IeC {\o }rste Oberservation}{4}{section.2.4}
-\contentsline {section}{\numberline {2.5}Interviews af fodg\IeC {\ae }ngere}{4}{section.2.5}
-\contentsline {chapter}{\numberline {3}Problemformulering}{5}{chapter.3}
-\contentsline {chapter}{\numberline {4}Afgr\IeC {\ae }nsning}{6}{chapter.4}
-\contentsline {chapter}{\numberline {5}Teorier og metoder}{7}{chapter.5}
-\contentsline {section}{\numberline {5.1}Shared Space}{7}{section.5.1}
-\contentsline {section}{\numberline {5.2}Observationsmetoder}{7}{section.5.2}
-\contentsline {section}{\numberline {5.3}Trafikt\IeC {\ae }llinger}{7}{section.5.3}
-\contentsline {chapter}{\numberline {6}Analyse og resultater}{8}{chapter.6}
-\contentsline {section}{\numberline {6.1}Flowkort}{8}{section.6.1}
-\contentsline {section}{\numberline {6.2}Shared Space Nytorv}{8}{section.6.2}
-\contentsline {section}{\numberline {6.3}F\IeC {\o }rste Observation}{8}{section.6.3}
-\contentsline {section}{\numberline {6.4}Interviews af fodg\IeC {\ae }ngere}{8}{section.6.4}
-\contentsline {chapter}{\numberline {7}Diskussion}{9}{chapter.7}
-\contentsline {chapter}{\numberline {8}Konklusion}{10}{chapter.8}
+\contentsline {section}{\numberline {2.4}F\IeC {\o }rste Oberservation}{6}{section.2.4}
+\contentsline {section}{\numberline {2.5}Interviews af fodg\IeC {\ae }ngere}{6}{section.2.5}
+\contentsline {chapter}{\numberline {3}Problemformulering}{8}{chapter.3}
+\contentsline {chapter}{\numberline {4}Afgr\IeC {\ae }nsning}{9}{chapter.4}
+\contentsline {chapter}{\numberline {5}Teorier og metoder}{10}{chapter.5}
+\contentsline {section}{\numberline {5.1}Shared Space}{10}{section.5.1}
+\contentsline {section}{\numberline {5.2}Observationsmetoder}{10}{section.5.2}
+\contentsline {section}{\numberline {5.3}Trafikt\IeC {\ae }llinger}{10}{section.5.3}
+\contentsline {chapter}{\numberline {6}Analyse og resultater}{11}{chapter.6}
+\contentsline {section}{\numberline {6.1}Flowkort}{11}{section.6.1}
+\contentsline {section}{\numberline {6.2}Shared Space Nytorv}{11}{section.6.2}
+\contentsline {section}{\numberline {6.3}F\IeC {\o }rste Observation}{11}{section.6.3}
+\contentsline {section}{\numberline {6.4}Interviews af fodg\IeC {\ae }ngere}{11}{section.6.4}
+\contentsline {chapter}{\numberline {7}Diskussion}{12}{chapter.7}
+\contentsline {chapter}{\numberline {8}Konklusion}{13}{chapter.8}
