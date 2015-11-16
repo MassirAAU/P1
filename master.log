@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.26)  16 NOV 2015 14:13
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.20)  13 NOV 2015 10:49
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2219,6 +2223,7 @@ ined.
 <to be read again> 
                    \T1\ae 
 l.22 ...{\ae }ngere@cref}{{[section][5][2]2.5}{6}}
+<<<<<<< HEAD
                                                   
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -2298,10 +2303,24 @@ not appear between \csname and \endcsname.
 
 
 LaTeX Warning: Label `sec:Trafikt\IeC {\ae }llinger@cref' multiply defined.
+=======
+                                                  
+? 
+) (Problemformulering.aux) (Afgraensning.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\ae 
+l.6 ...}nsning}{{4}{9}{Afgrænsning}{chapter.4}{}}
+                                                  
+? 
+
+LaTeX Warning: Label `chap:Afgr\IeC {\ae }nsning' multiply defined.
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \T1\ae 
+<<<<<<< HEAD
 l.16 ...e }llinger@cref}{{[section][3][5]5.3}{10}}
                                                   
 The control sequence marked <to be read again> should
@@ -2357,10 +2376,24 @@ not appear between \csname and \endcsname.
 
 LaTeX Warning: Label `sec:Interviews af fodg\IeC {\ae }ngere' multiply defined.
 
+=======
+l.6 ...}nsning}{{4}{9}{Afgrænsning}{chapter.4}{}}
+                                                  
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\ae 
+l.7 ...eC {\ae }nsning@cref}{{[chapter][4][]4}{9}}
+                                                  
+? 
+
+LaTeX Warning: Label `chap:Afgr\IeC {\ae }nsning@cref' multiply defined.
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \T1\ae 
+<<<<<<< HEAD
 l.18 ...Interviews af fodgængere}{section.6.4}{}}
                                                   
 The control sequence marked <to be read again> should
@@ -2377,10 +2410,22 @@ not appear between \csname and \endcsname.
 
 LaTeX Warning: Label `sec:Interviews af fodg\IeC {\ae }ngere@cref' multiply def
 ined.
+=======
+l.7 ...eC {\ae }nsning@cref}{{[chapter][4][]4}{9}}
+                                                  
+? 
+) (Teorierogmetoder.aux
+
+LaTeX Warning: Label `sec:Shared Space' multiply defined.
+
+
+LaTeX Warning: Label `sec:Shared Space@cref' multiply defined.
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \T1\ae 
+<<<<<<< HEAD
 l.19 ...\ae }ngere@cref}{{[section][4][6]6.4}{11}}
                                                   
 The control sequence marked <to be read again> should
@@ -2389,6 +2434,99 @@ not appear between \csname and \endcsname.
 ) (./Diskussion.aux) (./Konklusion.aux) (./appendix.aux))
 \openout1 = `master.aux'.
 
+=======
+l.15 ...5.3}{10}{Trafiktællinger}{section.5.3}{}}
+                                                  
+? 
+
+LaTeX Warning: Label `sec:Trafikt\IeC {\ae }llinger' multiply defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\ae 
+l.15 ...5.3}{10}{Trafiktællinger}{section.5.3}{}}
+                                                  
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\ae 
+l.16 ...e }llinger@cref}{{[section][3][5]5.3}{10}}
+                                                  
+? 
+
+LaTeX Warning: Label `sec:Trafikt\IeC {\ae }llinger@cref' multiply defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\ae 
+l.16 ...e }llinger@cref}{{[section][3][5]5.3}{10}}
+                                                  
+? 
+) (Analyseogresultater.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.15 ...}{11}{Første Observation}{section.6.3}{}}
+                                                  
+? 
+
+LaTeX Warning: Label `sec:F\IeC {\o }rste Observation' multiply defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.15 ...}{11}{Første Observation}{section.6.3}{}}
+                                                  
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.16 ...bservation@cref}{{[section][3][6]6.3}{11}}
+                                                  
+? 
+
+LaTeX Warning: Label `sec:F\IeC {\o }rste Observation@cref' multiply defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.16 ...bservation@cref}{{[section][3][6]6.3}{11}}
+                                                  
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\ae 
+l.18 ...Interviews af fodgængere}{section.6.4}{}}
+                                                  
+? 
+
+LaTeX Warning: Label `sec:Interviews af fodg\IeC {\ae }ngere' multiply defined.
+
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\ae 
+l.18 ...Interviews af fodgængere}{section.6.4}{}}
+                                                  
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\ae 
+l.19 ...\ae }ngere@cref}{{[section][4][6]6.4}{11}}
+                                                  
+? 
+
+LaTeX Warning: Label `sec:Interviews af fodg\IeC {\ae }ngere@cref' multiply def
+ined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\ae 
+l.19 ...\ae }ngere@cref}{{[section][4][6]6.4}{11}}
+                                                  
+? 
+) (Diskussion.aux) (Konklusion.aux) (appendix.aux))
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
@@ -2599,11 +2737,16 @@ LaTeX Font Info:    Try loading font information for TS1+futs on input line 2.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/ts1futs.fd
 File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
 )
+<<<<<<< HEAD
 \c__siunitx_mathtt_int=\count398
 \openout2 = `Forside.aux'.
 
 
 (./Forside.tex <aau_logo_en.pdf, id=95, 115.43124pt x 77.28876pt>
+=======
+\c__siunitx_mathtt_int=\count397
+ (Forside.tex <aau_logo_en.pdf, id=94, 115.43124pt x 77.28876pt>
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 File: aau_logo_en.pdf Graphic file (type pdf)
 
 <use aau_logo_en.pdf>
@@ -2617,10 +2760,18 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 41.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 41.
+<<<<<<< HEAD
  [1
 
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./aau_l
+=======
+
+[1
+
+
+{C:/Users/Aqauo_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./aau_l
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 ogo_en.pdf>])
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 7.
@@ -2842,12 +2993,17 @@ Package babel Info: Redefining danish shorthand "~
 [3
 
 
+<<<<<<< HEAD
 ] <aau_logo_cropped.png, id=168, 170.6375pt x 189.70876pt>
+=======
+] <aau_logo_cropped.png, id=166, 170.6375pt x 189.70876pt>
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 File: aau_logo_cropped.png Graphic file (type png)
 
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 31.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+<<<<<<< HEAD
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 31.
 Package babel Info: Redefining danish shorthand "~
@@ -2878,6 +3034,38 @@ Package babel Info: Redefining danish shorthand "~
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
+=======
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 31.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 31.
+ [4 <./aau_logo_cropped.png (PNG copy)>]
+File: aau_logo_cropped.png Graphic file (type png)
+
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 42.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 42.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 42.
+ [5]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 44.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 44.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 47.
+Package babel Info: Redefining danish shorthand "~
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 (babel)             in language  on input line 47.
 )
 File: aau_logo_cropped.png Graphic file (type png)
@@ -2906,10 +3094,14 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 28.
+<<<<<<< HEAD
  [7]
 \openout2 = `Problemformulering.aux'.
 
  (./Problemformulering.tex
+=======
+ [7] (Problemformulering.tex
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 Kapitel 3.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
@@ -2981,7 +3173,10 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 31.
  [10
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 
 
 ]
@@ -3309,16 +3504,31 @@ I'm ignoring this, since I wasn't doing a \csname.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
 Package rerunfilecheck Info: File `master.out' has not changed.
+<<<<<<< HEAD
 (rerunfilecheck)             Checksum: B7C86496D26B7CA0F7841600F756C93A;1279.
 
 
+=======
+(rerunfilecheck)             Checksum: 9F2228432F7577B78ECDE0335860A8F9;1301.
+
+
+LaTeX Warning: There were undefined references.
+
+
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
 LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                master
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'master.run.xml'.
 \openout1 = `master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  48572 strings out of 493089
  1059581 string characters out of 6134841
  1601439 words of memory out of 5000000
@@ -3336,6 +3546,23 @@ Output written on master.pdf (19 pages, 141683 bytes).
 PDF statistics:
  245 PDF objects out of 1000 (max. 8388607)
  215 compressed objects within 3 object streams
+=======
+ 49442 strings out of 493673
+ 1069875 string characters out of 3141517
+ 1587653 words of memory out of 3000000
+ 51865 multiletter control sequences out of 15000+200000
+ 120882 words of font info for 126 fonts, out of 3000000 for 9000
+ 1026 hyphenation exceptions out of 8191
+ 57i,18n,92p,10410b,1597s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Aqauo_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
+600\ectt1095.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.
+enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putr8a.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on master.pdf (19 pages, 141853 bytes).
+PDF statistics:
+ 257 PDF objects out of 1000 (max. 8388607)
+>>>>>>> 4b8eedd628523c7f432511ac85a04540c3c87692
  46 named destinations out of 1000 (max. 500000)
  199 words of extra memory for PDF output out of 10000 (max. 10000000)
 
