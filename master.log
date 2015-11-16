@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.20)  12 NOV 2015 11:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.20)  13 NOV 2015 10:49
 entering extended mode
 **master.tex
 (master.tex
@@ -3154,14 +3154,22 @@ Package rerunfilecheck Info: File `master.out' has not changed.
 (rerunfilecheck)             Checksum: 9F2228432F7577B78ECDE0335860A8F9;1301.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                master
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'master.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  49442 strings out of 493673
  1069875 string characters out of 3141517
- 1609286 words of memory out of 3000000
+ 1587653 words of memory out of 3000000
  51865 multiletter control sequences out of 15000+200000
  120882 words of font info for 126 fonts, out of 3000000 for 9000
  1026 hyphenation exceptions out of 8191
