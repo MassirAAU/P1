@@ -10,13 +10,14 @@
 \contentsline {chapter}{\numberline {3}Problemformulering}{9}{chapter.3}
 \contentsline {section}{\numberline {3.1}Afgr\IeC {\ae }nsning}{10}{section.3.1}
 \contentsline {chapter}{\numberline {4}Teorier og metoder}{11}{chapter.4}
-\contentsline {section}{\numberline {4.1}Shared Space}{11}{section.4.1}
-\contentsline {section}{\numberline {4.2}Observationsmetoder}{11}{section.4.2}
-\contentsline {section}{\numberline {4.3}Trafikt\IeC {\ae }llinger}{11}{section.4.3}
-\contentsline {chapter}{\numberline {5}Analyse og resultater}{12}{chapter.5}
-\contentsline {section}{\numberline {5.1}Flowkort}{12}{section.5.1}
-\contentsline {section}{\numberline {5.2}Shared Space Nytorv}{12}{section.5.2}
-\contentsline {section}{\numberline {5.3}F\IeC {\o }rste Observation}{12}{section.5.3}
-\contentsline {section}{\numberline {5.4}Interviews af fodg\IeC {\ae }ngere}{12}{section.5.4}
-\contentsline {chapter}{\numberline {6}Diskussion}{13}{chapter.6}
-\contentsline {chapter}{\numberline {7}Konklusion}{14}{chapter.7}
+\contentsline {section}{\numberline {4.1}Shared Space}{12}{section.4.1}
+\contentsline {section}{\numberline {4.2}Observationsmetoder}{12}{section.4.2}
+\contentsline {section}{\numberline {4.3}Trafikt\IeC {\ae }llinger}{12}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Manuel T\IeC {\ae }lling}{12}{subsection.4.3.1}
+\contentsline {chapter}{\numberline {5}Analyse og resultater}{14}{chapter.5}
+\contentsline {section}{\numberline {5.1}Flowkort}{14}{section.5.1}
+\contentsline {section}{\numberline {5.2}Shared Space Nytorv}{14}{section.5.2}
+\contentsline {section}{\numberline {5.3}F\IeC {\o }rste Observation}{14}{section.5.3}
+\contentsline {section}{\numberline {5.4}Interviews af fodg\IeC {\ae }ngere}{14}{section.5.4}
+\contentsline {chapter}{\numberline {6}Diskussion}{15}{chapter.6}
+\contentsline {chapter}{\numberline {7}Konklusion}{16}{chapter.7}
