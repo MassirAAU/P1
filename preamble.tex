@@ -804,17 +804,21 @@ rsp, si, sil, sp, spl
 \FXRegisterAuthor{ra}{ara}{Rasmus}
 \FXRegisterAuthor{ro}{aro}{Rong}
 
-\usepackage[ % citation support
-bibencoding=utf8,
-  hyperref=true,
-  backend=biber,
-  style=ieee,
-  sorting=none
-  ]{biblatex}
-  \addbibresource{sources.bib}
+%\usepackage[backend=bibtex,
+%bibencoding=utf8,
+ % hyperref=true,
+  %backend=biber,
+  %style=ieee,
+  %sorting=none
+  %]{biblatex}
+  %\addbibresource{sources.bib}
+  \usepackage{natbib}
+  \bibliography{sources.bib}
+  \bibliographystyle{te}
 
 \usepackage{csquotes} % recommended by biblatex
 \usepackage{lastpage}
+
 
 \sloppy
 
