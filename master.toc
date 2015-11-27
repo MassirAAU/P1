@@ -1,0 +1,29 @@
+\select@language {danish}
+\contentsline {chapter}{\numberline {1}Forord}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Indledning}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Nytorv f\IeC {\o }r 00'erne}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Hvorfor f\IeC {\ae }rdes der mange mennesker p\IeC {\r a} Nytorv?}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Shared Space}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}Interviews af fodg\IeC {\ae }ngere}{7}{section.2.4}
+\contentsline {chapter}{\numberline {3}Problemformulering}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Afgr\IeC {\ae }nsning}{9}{section.3.1}
+\contentsline {chapter}{\numberline {4}Teorier og metoder}{10}{chapter.4}
+\contentsline {section}{\numberline {4.1}Anvendelse af Shared Space}{10}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Hvor anvendes Shared Space?}{10}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Trafikm\IeC {\ae }ngder og hastigheder}{10}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Ens eller dobbeltrettet}{11}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Busser og parkering}{11}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Eksempler p\IeC {\r a} Shared Space anvendelse}{11}{subsection.4.1.5}
+\contentsline {section}{\numberline {4.2}Observationsmetoder}{11}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Definition af konflikt}{11}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Adf\IeC {\ae }rdsstudier}{13}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Adf\IeC {\ae }rdsregistrering}{15}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Trafikt\IeC {\ae }llinger}{16}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Manuel T\IeC {\ae }lling}{16}{subsection.4.3.1}
+\contentsline {chapter}{\numberline {5}Analyse og resultater}{19}{chapter.5}
+\contentsline {section}{\numberline {5.1}Flowkort}{19}{section.5.1}
+\contentsline {section}{\numberline {5.2}Shared Space Nytorv}{19}{section.5.2}
+\contentsline {section}{\numberline {5.3}F\IeC {\o }rste Observation}{19}{section.5.3}
+\contentsline {section}{\numberline {5.4}Interviews af fodg\IeC {\ae }ngere}{19}{section.5.4}
+\contentsline {chapter}{\numberline {6}Diskussion}{20}{chapter.6}
+\contentsline {chapter}{\numberline {7}Konklusion}{21}{chapter.7}
