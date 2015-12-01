@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.5)  27 NOV 2015 10:06
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.26)  27 NOV 2015 10:06
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.16)  27 NOV 2015 09:36
+>>>>>>> 4b359c728ee107e169ffec04e80c09f4fa69c756
+>>>>>>> 0719bfddd420f2bde8d89c7f1bbf0835c5acf2f4
 entering extended mode
 **master.tex
 (master.tex
@@ -1879,7 +1887,15 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'danish'.
 
+<<<<<<< HEAD
 (master.aux (Forside.aux) (Titelblad.aux) (Forord.aux) (Indledning.aux
+=======
+(./master.aux (./Forside.aux) (./Titelblad.aux) (./Forord.aux)
+<<<<<<< HEAD
+(./Indledning.aux) (./Problemformulering.aux) (./Teorierogmetoder.aux
+=======
+(./Indledning.aux
+>>>>>>> 0719bfddd420f2bde8d89c7f1bbf0835c5acf2f4
 ! Missing \endcsname inserted.
 <to be read again> 
                    \T1\o 
@@ -1959,7 +1975,12 @@ l.37 ...erservation@cref}{{[section][4][2]2.4}{8}}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
+<<<<<<< HEAD
 ) (Problemformulering.aux) (Teorierogmetoder.aux
+=======
+) (./Problemformulering.aux) (./Teorierogmetoder.aux
+>>>>>>> 4b359c728ee107e169ffec04e80c09f4fa69c756
+>>>>>>> 0719bfddd420f2bde8d89c7f1bbf0835c5acf2f4
 
 LaTeX Warning: Label `sec:shared_space' multiply defined.
 
@@ -2151,8 +2172,20 @@ LaTeX Font Info:    Try loading font information for TS1+futs on input line 2.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fourier\ts1futs.fd"
 File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
 )
+<<<<<<< HEAD
 \c__siunitx_mathtt_int=\count279
  (Forside.tex <aau_logo_en.pdf, id=130, 115.43124pt x 77.28876pt>
+=======
+\c__siunitx_mathtt_int=\count280
+\openout2 = `Forside.aux'.
+
+
+<<<<<<< HEAD
+(./Forside.tex <aau_logo_en.pdf, id=95, 115.43124pt x 77.28876pt>
+=======
+(./Forside.tex <aau_logo_en.pdf, id=131, 115.43124pt x 77.28876pt>
+>>>>>>> 4b359c728ee107e169ffec04e80c09f4fa69c756
+>>>>>>> 0719bfddd420f2bde8d89c7f1bbf0835c5acf2f4
 File: aau_logo_en.pdf Graphic file (type pdf)
  <use aau_logo_en.pdf>
 Package pdftex.def Info: aau_logo_en.pdf used on input line 8.
@@ -2360,7 +2393,15 @@ Package babel Info: Redefining danish shorthand "~
 Package natbib Warning: Citation `datasheet_pir1' on page 3 undefined on input 
 line 11.
 
+<<<<<<< HEAD
 <opserveringspunkter2.PNG, id=221, 505.28775pt x 493.24275pt>
+=======
+<<<<<<< HEAD
+<opserveringspunkter2.PNG, id=166, 505.28775pt x 493.24275pt>
+=======
+<opserveringspunkter2.PNG, id=223, 505.28775pt x 493.24275pt>
+>>>>>>> 4b359c728ee107e169ffec04e80c09f4fa69c756
+>>>>>>> 0719bfddd420f2bde8d89c7f1bbf0835c5acf2f4
 File: opserveringspunkter2.PNG Graphic file (type png)
 
 <use opserveringspunkter2.PNG>
@@ -2389,7 +2430,15 @@ Package babel Info: Redefining danish shorthand "~
 [3
 
 
+<<<<<<< HEAD
 ] <aau_logo_cropped.png, id=227, 170.6375pt x 189.70876pt>
+=======
+<<<<<<< HEAD
+] <aau_logo_cropped.png, id=172, 170.6375pt x 189.70876pt>
+=======
+] <aau_logo_cropped.png, id=229, 170.6375pt x 189.70876pt>
+>>>>>>> 4b359c728ee107e169ffec04e80c09f4fa69c756
+>>>>>>> 0719bfddd420f2bde8d89c7f1bbf0835c5acf2f4
 File: aau_logo_cropped.png Graphic file (type png)
 
 <use aau_logo_cropped.png>
@@ -3039,6 +3088,7 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  45102 strings out of 493673
  987506 string characters out of 3141524
  1184026 words of memory out of 3000000
@@ -3054,8 +3104,48 @@ ram Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putbi8a.pfb><C:/Program Fil
 es (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putr8a.pfb><C:/Program Files (x86)
 /MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a.pfb>
 Output written on master.pdf (27 pages, 1802173 bytes).
+=======
+<<<<<<< HEAD
+ 44100 strings out of 493089
+ 974346 string characters out of 6134841
+ 1175108 words of memory out of 5000000
+ 46696 multiletter control sequences out of 15000+600000
+ 130022 words of font info for 132 fonts, out of 8000000 for 9000
+=======
+ 44220 strings out of 493089
+ 977017 string characters out of 6134841
+ 1175108 words of memory out of 5000000
+ 46784 multiletter control sequences out of 15000+600000
+ 130954 words of font info for 136 fonts, out of 8000000 for 9000
+>>>>>>> 4b359c728ee107e169ffec04e80c09f4fa69c756
+ 1142 hyphenation exceptions out of 8191
+ 57i,18n,92p,10426b,795s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/tex
+<<<<<<< HEAD
+live/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/adobe/utopia/putbi8a.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2015/texmf-dist/fonts
+/type1/public/cm-super/sftt1095.pfb>
+Output written on master.pdf (22 pages, 1297867 bytes).
+PDF statistics:
+ 271 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 204 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+live/2015/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/adobe/utopia/putbi8a.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/cm-super/sftt1095.pfb>
+Output written on master.pdf (27 pages, 1777001 bytes).
+>>>>>>> 0719bfddd420f2bde8d89c7f1bbf0835c5acf2f4
 PDF statistics:
  386 PDF objects out of 1000 (max. 8388607)
  71 named destinations out of 1000 (max. 500000)
  306 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 4b359c728ee107e169ffec04e80c09f4fa69c756
 
