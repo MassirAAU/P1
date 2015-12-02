@@ -27,9 +27,9 @@
 \contentsline {subsection}{\numberline {5.1.10}Manuel T\IeC {\ae }lling}{17}{subsection.5.1.10}
 \contentsline {section}{\numberline {5.2}Analyse og resultater}{19}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}Shared Space tr\IeC {\ae }k i Nytorv/\IeC {\O }ster\IeC {\r a}gade omr\IeC {\r a}det}{19}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Trafikanternes benyttelse af Nytorv som et Shared Space}{20}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}F\IeC {\o }rste observation}{22}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Dybbere unders\IeC {\o }gelse af f\IeC {\o }rste observation}{22}{subsection.5.2.4}
-\contentsline {subsection}{\numberline {5.2.5}Resultater af observation}{22}{subsection.5.2.5}
-\contentsline {chapter}{\numberline {6}Diskussion}{23}{chapter.6}
-\contentsline {chapter}{\numberline {7}Konklusion}{24}{chapter.7}
+\contentsline {subsection}{\numberline {5.2.2}Trafikanternes benyttelse af Nytorv som et Shared Space}{22}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}F\IeC {\o }rste observation}{23}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Dybbere unders\IeC {\o }gelse af f\IeC {\o }rste observation}{23}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Resultater af observation}{23}{subsection.5.2.5}
+\contentsline {chapter}{\numberline {6}Diskussion}{24}{chapter.6}
+\contentsline {chapter}{\numberline {7}Konklusion}{25}{chapter.7}
