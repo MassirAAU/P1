@@ -1,4 +1,24 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.5)  7 DEC 2015 15:04
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.20)  7 DEC 2015 09:49
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.5)  7 DEC 2015 11:33
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.16)  7 DEC 2015 10:17
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.26)  7 DEC 2015 10:19
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.16)  7 DEC 2015 10:08
+>>>>>>> 2a6d62230790082a9215b8ec839f20f4a595b8aa
+>>>>>>> de774806e4f471ecc3be9d3e69295d60e4192b8d
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 entering extended mode
 **master.tex
 (master.tex
@@ -1256,6 +1276,17 @@ File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
 )))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+<<<<<<< HEAD
+Package: expl3 2015/09/27 v6111 L3 programming layer (loader) 
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+Package: expl3 2015/09/27 v6111 L3 programming layer (code) 
+L3 Module: l3bootstrap 2015/09/10 v5983 L3 Bootstrap code
+L3 Module: l3names 2015/09/27 v6108 L3 Namespace for primitives
+L3 Module: l3basics 2015/09/22 v6033 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2015/09/23 v6037 L3 Token lists
+=======
 Package: expl3 2015/11/04 v6224 L3 programming layer (loader) 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
@@ -1265,6 +1296,7 @@ L3 Module: l3names 2015/11/03 v6220 L3 Namespace for primitives
 L3 Module: l3basics 2015/09/22 v6033 L3 Basic definitions
 L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
 L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 L3 Module: l3str 2015/09/20 v6021 L3 Strings
 L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
 L3 Module: l3int 2015/09/25 v6089 L3 Integers
@@ -1274,12 +1306,21 @@ L3 Module: l3int 2015/09/25 v6089 L3 Integers
 \g_tmpa_int=\count158
 \g_tmpb_int=\count159
 L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+<<<<<<< HEAD
+L3 Module: l3prg 2015/09/10 v5983 L3 Control structures
+\g__prg_map_int=\count160
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2015/09/23 v6040 L3 Experimental token manipulation
+L3 Module: l3prop 2015/08/05 v5777 L3 Property lists
+L3 Module: l3msg 2015/09/23 v6037 L3 Messages
+=======
 L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
 \g__prg_map_int=\count160
 L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
 L3 Module: l3token 2015/09/28 v6114 L3 Experimental token manipulation
 L3 Module: l3prop 2015/08/05 v5777 L3 Property lists
 L3 Module: l3msg 2015/09/28 v6113 L3 Messages
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 L3 Module: l3file 2015/09/23 v6037 L3 File and I/O operations
 \l_iow_line_count_int=\count161
 \l__iow_target_count_int=\count162
@@ -1345,7 +1386,11 @@ L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
 \l__coffin_display_x_dim=\dimen207
 \l__coffin_display_y_dim=\dimen208
 L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+<<<<<<< HEAD
+L3 Module: l3candidates 2015/09/23 v6039 L3 Experimental additions to l3kernel
+=======
 L3 Module: l3candidates 2015/11/01 v6216 L3 Experimental additions to l3kernel
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 \l__box_top_dim=\dimen209
 \l__box_bottom_dim=\dimen210
 \l__box_left_dim=\dimen211
@@ -1373,17 +1418,28 @@ File: l3pdfmode.def 2015/09/10 v5983 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count177
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+<<<<<<< HEAD
+Package: xparse 2015/09/27 v6111 L3 Experimental document command parser
+=======
 Package: xparse 2015/11/04 v6224 L3 Experimental document command parser
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 \l__xparse_current_arg_int=\count178
 \l__xparse_m_args_int=\count179
 \l__xparse_mandatory_args_int=\count180
 \l__xparse_processor_int=\count181
 \l__xparse_v_nesting_int=\count182
 )
+<<<<<<< HEAD
+Package: siunitx 2015/09/14 v2.6l A comprehensive (SI) units package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2015/09/27 v6111 LaTeX2e option processing using LaTeX3 keys
+=======
 Package: siunitx 2015/10/15 v2.6m A comprehensive (SI) units package
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
 Package: l3keys2e 2015/11/04 v6224 LaTeX2e option processing using LaTeX3 keys
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 )
 \l__siunitx_tmp_box=\box62
 \l__siunitx_tmp_dim=\dimen224
@@ -1428,119 +1484,211 @@ Package: l3keys2e 2015/11/04 v6224 LaTeX2e option processing using LaTeX3 keys
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7206.
+=======
 . Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7209.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7209.
+=======
 . Defining command \DeclareSIPostPower with sig. 'mm' on line 7212.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7212.
+=======
 . Defining command \DeclareSIPrefix with sig. 'mmm' on line 7215.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7215.
+=======
 . Defining command \DeclareSIPrePower with sig. 'mm' on line 7218.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7218.
+=======
 . Defining command \DeclareSIQualifier with sig. 'mm' on line 7221.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7221.
+=======
 . Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7224.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7224.
+=======
 . Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7227.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7239.
+=======
 . Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7242.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \num with sig. 'om' on line 7247.
+=======
 . Defining command \num with sig. 'om' on line 7250.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7255.
+=======
 . Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7258.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \numrange with sig. 'omm' on line 7263.
+=======
 . Defining command \numrange with sig. 'omm' on line 7266.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7274.
+=======
 . Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7277.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \SIrange with sig. 'ommm' on line 7285.
+=======
 . Defining command \SIrange with sig. 'ommm' on line 7288.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \SI with sig. 'omom' on line 7296.
+=======
 . Defining command \SI with sig. 'omom' on line 7299.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \sisetup with sig. 'm' on line 7299.
+=======
 . Defining command \sisetup with sig. 'm' on line 7302.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \tablenum with sig. 'om' on line 7311.
+=======
 . Defining command \tablenum with sig. 'om' on line 7314.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \si with sig. 'om' on line 7322.
+=======
 . Defining command \si with sig. 'om' on line 7325.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7369.
+=======
 . Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7372.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \__siunitx_bookmark_numrange:w with sig. 'omm' on line
+<<<<<<< HEAD
+. 7371.
+=======
 . 7374.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7373.
+=======
 . Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7376.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7375.
+=======
 . Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7378.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \__siunitx_bookmark_SIrange:w with sig. 'ommm' on line
+<<<<<<< HEAD
+. 7377.
+=======
 . 7380.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
+<<<<<<< HEAD
+. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7378.
+=======
 . Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7381.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 .................................................
 \g__file_internal_ior=\read3
 
@@ -1643,7 +1791,11 @@ Package: subfig 2005/06/28 ver: 1.3 subfig package
 \sf@top=\skip75
 \sf@bottom=\skip76
 )
+<<<<<<< HEAD
+(C:\Users\Aqauo_000\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+=======
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip77
 \bibsep=\skip78
@@ -1880,14 +2032,67 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'danish'.
 
 (master.aux (Forside.aux) (Titelblad.aux) (Forord.aux) (Indledning.aux
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+(master.aux (Forside.aux) (Titelblad.aux) (Forord.aux) (Indledning.aux
+=======
+(./master.aux (./Forside.aux) (./Titelblad.aux) (./Forord.aux)
+(./Indledning.aux
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 ! Missing \endcsname inserted.
 <to be read again> 
                    \T1\o 
 l.21 ...ce}{{2.3}{5}{Shared Space}{section.2.3}{}}
                                                   
+<<<<<<< HEAD
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
+=======
+? 
+
+LaTeX Warning: Label `sec:Fremf\IeC {\o }ring til shared space' multiply define
+d.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.21 ...ce}{{2.3}{5}{Shared Space}{section.2.3}{}}
+                                                  
+? 
+<<<<<<< HEAD
+=======
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
+                                                  
+? 
+
+LaTeX Warning: Label `sec:Fremf\IeC {\o }ring til shared space@cref' multiply d
+efined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
+                                                  
+<<<<<<< HEAD
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.36 ...{8}{FÃ¸rste Oberservation}{section.2.4}{}}
+                                                  
+? 
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 
 LaTeX Warning: Label `sec:Fremf\IeC {\o }ring til shared space' multiply define
 d.
@@ -1905,6 +2110,11 @@ not appear between \csname and \endcsname.
                    \T1\o 
 l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
                                                   
+<<<<<<< HEAD
+? 
+) (Problemformulering.aux) (Analyseogresultater.aux) (Faglighed/tmar.aux)
+(Diskussion.aux) (Konklusion.aux) (appendix.aux))
+=======
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
@@ -1920,8 +2130,21 @@ l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
+<<<<<<< HEAD
 ) (Problemformulering.aux) (Analyseogresultater.aux) (Faglighed/tmar.aux)
 (Diskussion.aux) (Konklusion.aux) (appendix.aux))
+=======
+) (Problemformulering.aux) (Analyseogresultater.aux) (Faglighed/tmar.aux))
+=======
+? 
+) (./Problemformulering.aux) (./Analyseogresultater.aux) (./Faglighed/tmar.aux)
+(./Faglighed/losningsforslag.aux) (./Diskussion.aux) (./Konklusion.aux)
+(./appendix.aux))
+\openout1 = `master.aux'.
+
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
@@ -1998,7 +2221,11 @@ Dictionary: translator-basic-dictionary, Language: English
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
 "
+<<<<<<< HEAD
+File: siunitx-abbreviations.cfg 2015/09/14 v2.6l siunitx: Abbreviated units
+=======
 File: siunitx-abbreviations.cfg 2015/10/15 v2.6m siunitx: Abbreviated units
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 )
 \symgns@font=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
@@ -2107,7 +2334,22 @@ LaTeX Font Info:    Try loading font information for TS1+futs on input line 2.
 File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
 )
 \c__siunitx_mathtt_int=\count279
+ (Forside.tex <aau_logo_en.pdf, id=106, 115.43124pt x 77.28876pt>
+=======
+<<<<<<< HEAD
+\c__siunitx_mathtt_int=\count279
  (Forside.tex <aau_logo_en.pdf, id=138, 115.43124pt x 77.28876pt>
+<<<<<<< HEAD
+=======
+=======
+\c__siunitx_mathtt_int=\count280
+\openout2 = `Forside.aux'.
+
+
+(./Forside.tex <aau_logo_en.pdf, id=103, 115.43124pt x 77.28876pt>
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 File: aau_logo_en.pdf Graphic file (type pdf)
  <use aau_logo_en.pdf>
 Package pdftex.def Info: aau_logo_en.pdf used on input line 8.
@@ -2120,12 +2362,22 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 41.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 41.
+<<<<<<< HEAD
+=======
+
+[1
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 
 [1
 
+<<<<<<< HEAD
 
+{C:/Users/Aqauo_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./aau_l
+ogo_en.pdf>])
+=======
 {C:/Users/Fatimah/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./aau_log
 o_en.pdf>])
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining danish shorthand "~
@@ -2315,7 +2567,19 @@ Package babel Info: Redefining danish shorthand "~
 Package natbib Warning: Citation `datasheet_pir1' on page 3 undefined on input 
 line 11.
 
+<<<<<<< HEAD
 <opserveringspunkter2.PNG, id=250, 505.28775pt x 493.24275pt>
+=======
+<<<<<<< HEAD
+<opserveringspunkter2.PNG, id=206, 505.28775pt x 493.24275pt>
+=======
+<<<<<<< HEAD
+<opserveringspunkter2.PNG, id=220, 505.28775pt x 493.24275pt>
+=======
+<opserveringspunkter2.PNG, id=204, 505.28775pt x 493.24275pt>
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 File: opserveringspunkter2.PNG Graphic file (type png)
 
 <use opserveringspunkter2.PNG>
@@ -2344,7 +2608,19 @@ Package babel Info: Redefining danish shorthand "~
 [3
 
 
+<<<<<<< HEAD
 ] <aau_logo_cropped.png, id=256, 170.6375pt x 189.70876pt>
+=======
+<<<<<<< HEAD
+] <aau_logo_cropped.png, id=212, 170.6375pt x 189.70876pt>
+=======
+<<<<<<< HEAD
+] <aau_logo_cropped.png, id=226, 170.6375pt x 189.70876pt>
+=======
+] <aau_logo_cropped.png, id=210, 170.6375pt x 189.70876pt>
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 File: aau_logo_cropped.png Graphic file (type png)
 
 <use aau_logo_cropped.png>
@@ -2402,7 +2678,23 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 28.
+<<<<<<< HEAD
  [7] (Problemformulering.tex
+=======
+<<<<<<< HEAD
+ [7] (Problemformulering.tex
+=======
+<<<<<<< HEAD
+ [8]
+(Problemformulering.tex
+=======
+ [7]
+\openout2 = `Problemformulering.aux'.
+
+ (./Problemformulering.tex
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 Kapitel 3.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
@@ -2481,14 +2773,47 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 29.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 29.
+<<<<<<< HEAD
  [9] (Analyseogresultater.tex)
 (Faglighed/tmar.tex
+=======
+<<<<<<< HEAD
+ [9] (Analyseogresultater.tex)
+(Faglighed/tmar.tex
+=======
+ [9]
+\openout2 = `Analyseogresultater.aux'.
+
+ (./Analyseogresultater.tex)
+\openout2 = `Faglighed/tmar.aux'.
+
+
+(./Faglighed/tmar.tex
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 Kapitel 4.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 (Faglighed/tmartm.tex) (Faglighed/tmarar.tex
+<<<<<<< HEAD
+=======
+Package babel Info: Redefining danish shorthand "|
+<<<<<<< HEAD
+(babel)             in language  on input line 5.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 5.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 8.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 8.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 11.
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2502,7 +2827,15 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 
+<<<<<<< HEAD
 <billederogfigur/Nytorvoverblik.jpg, id=289, 963.6pt x 722.7pt>
+=======
+<<<<<<< HEAD
+<billederogfigur/Nytorvoverblik.jpg, id=245, 963.6pt x 722.7pt>
+=======
+<billederogfigur/Nytorvoverblik.jpg, id=243, 963.6pt x 722.7pt>
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 File: billederogfigur/Nytorvoverblik.jpg Graphic file (type jpg)
 
 <use billederogfigur/Nytorvoverblik.jpg>
@@ -2523,7 +2856,15 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
+<<<<<<< HEAD
  <./billederogfigur/Nytorvoverblik.jpg>] <billederogfigur/skiltning.jpg, id=294
+=======
+<<<<<<< HEAD
+ <./billederogfigur/Nytorvoverblik.jpg>] <billederogfigur/skiltning.jpg, id=250
+=======
+ <./billederogfigur/Nytorvoverblik.jpg>] <billederogfigur/skiltning.jpg, id=248
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 , 541.02126pt x 963.6pt>
 File: billederogfigur/skiltning.jpg Graphic file (type jpg)
 
@@ -2541,11 +2882,20 @@ Type  H <return>  for immediate help.
 l.28 I
        omrÃ¥det er der dog en del bustrafik, som ikke anbefales at benytte s...
 
+<<<<<<< HEAD
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 <billederogfigur/Busstoppesteder.jpg, id=295, 541.02126pt x 963.6pt>
+=======
+? 
+<<<<<<< HEAD
+<billederogfigur/Busstoppesteder.jpg, id=251, 541.02126pt x 963.6pt>
+=======
+<billederogfigur/Busstoppesteder.jpg, id=249, 541.02126pt x 963.6pt>
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 File: billederogfigur/Busstoppesteder.jpg Graphic file (type jpg)
 
 <use billederogfigur/Busstoppesteder.jpg>
@@ -2570,7 +2920,15 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 43.
 
+<<<<<<< HEAD
 <billederogfigur/Fodfelt.jpg, id=301, 963.6pt x 722.7pt>
+=======
+<<<<<<< HEAD
+<billederogfigur/Fodfelt.jpg, id=257, 963.6pt x 722.7pt>
+=======
+<billederogfigur/Fodfelt.jpg, id=255, 963.6pt x 722.7pt>
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 File: billederogfigur/Fodfelt.jpg Graphic file (type jpg)
 
 <use billederogfigur/Fodfelt.jpg>
@@ -2605,7 +2963,12 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
+<<<<<<< HEAD
 [13 <./billederogfigur/Fodfelt.jpg>]
+=======
+[13 <./billederogfigur/Fodfelt.jpg>])
+(Faglighed/analyseogresultater/trafiktaellinger.tex
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
@@ -3092,6 +3455,412 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 10.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 10.
+<<<<<<< HEAD
+
+<billederogfigur/konflikt.png, id=308, 376.40625pt x 208.52907pt>
+File: billederogfigur/konflikt.png Graphic file (type png)
+
+<use billederogfigur/konflikt.png>
+Package pdftex.def Info: billederogfigur/konflikt.png used on input line 22.
+(pdftex.def)             Requested size: 376.40532pt x 208.52855pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--26
+
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 12--26
+\T1/futs/m/n/12 Metoderne bag næ-ste ob-ser-va-tion var, at iden-ti-fi-ce-re ko
+n-flik-ter ved om-rå-
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 12--26
+\T1/futs/m/n/12 som sam-men-stød mel-lem to tra-fik-kan-ter, men dog ude-luk-ke
+r den sven-ske
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--26
+
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 12--26
+\T1/futs/m/n/12 Den sven-ske tra-fik-tek-nik be-skri-ver en kon-flikt mel-lem t
+o tra-fik-kan-ter, som
+ []
+
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 26.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 26.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 26.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 26.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 26.
+ [21]
+File: aau_logo_cropped.png Graphic file (type png)
+ <use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 26.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 26.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 26.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 26.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 26.
+ [22 <./billederogfigur/konflikt.png>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.30   $$TU=\frac{d}{V}
+                        $$
+? 
+! Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \@@over #2}
+                                                 
+l.30   $$TU=\frac{d}{V}
+                        $$
+? 
+! You can't use `\eqno' in math mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.31 \end{equation}
+                   
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.31 \end{equation}
+                   
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.31 \end{equation}
+                   
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+<billederogfigur/tugraf.png, id=321, 320.69812pt x 252.19218pt>
+File: billederogfigur/tugraf.png Graphic file (type png)
+
+<use billederogfigur/tugraf.png>
+Package pdftex.def Info: billederogfigur/tugraf.png used on input line 41.
+(pdftex.def)             Requested size: 320.69733pt x 252.19156pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--55
+
+ []
+
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 55.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 55.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 55.
+ [23 <./billederogfigur/tugraf.png>]
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 \begin{subfigure}
+                      {1\textwidth}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.58 \begin{subfigure}{1\textwidth}
+                                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.58 \begin{subfigure}{1\textwidth}
+                                   
+? 
+<billederogfigur/rodmarkering.jpg, id=332, 5331.92pt x 2999.205pt>
+File: billederogfigur/rodmarkering.jpg Graphic file (type jpg)
+
+<use billederogfigur/rodmarkering.jpg>
+Package pdftex.def Info: billederogfigur/rodmarkering.jpg used on input line 60
+.
+(pdftex.def)             Requested size: 402.32022pt x 226.30359pt.
+
+
+! LaTeX Error: \begin{figure} on input line 56 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \end{subfigure}
+                    
+? 
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 \begin{subfigure}
+                      {1\textwidth}
+? 
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.64 \begin{subfigure}{1\textwidth}
+                                   
+? 
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.64 \begin{subfigure}{1\textwidth}
+                                   
+? 
+<billederogfigur/blaamarkering.jpg, id=333, 5331.92pt x 2999.205pt>
+File: billederogfigur/blaamarkering.jpg Graphic file (type jpg)
+
+<use billederogfigur/blaamarkering.jpg>
+Package pdftex.def Info: billederogfigur/blaamarkering.jpg used on input line 6
+6.
+(pdftex.def)             Requested size: 402.32022pt x 226.30359pt.
+
+
+! LaTeX Error: \begin{figure} on input line 56 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \end{subfigure}
+                    
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--120
+
+ []
+
+
+Overfull \hbox (17.56555pt too wide) in paragraph at lines 55--120
+[] 
+ []
+
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 124.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 124.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 124.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 124.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 124.
+ [24]
+File: aau_logo_cropped.png Graphic file (type png)
+ <use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 124.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 124.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 124.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 124.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 124.
+ [25 <./billederogfigur/rodmarkering.jpg> <./billederogfigur/blaamarkering.jpg>
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 124.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 124.
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--156
+\T1/futs/m/n/12 Som tid-li-ge-re nævnt, så blev di-stan-cen for hvert kon-flikt
+ no-te-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--156
+\T1/futs/m/n/12 ret, hvil-ket gø-re det mu-ligt at be-reg-ne en me-re præ-cis T
+A-værdi.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--156
+\T1/futs/m/n/12 Ta-bel X, vi-ser den be-reg-ne-de TA-værdi for den be-stemt ha-
+stig-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--156
+\T1/futs/m/n/12 hed samt di-stan-ce som blev må-lt un-der ud-fø-rel-sen af me-t
+o-den.
+ []
+
+
+Overfull \hbox (17.56555pt too wide) in paragraph at lines 127--156
+[] 
+ []
+
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 158.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 158.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 158.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 158.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 158.
+ [26]
+<billederogfigur/adfaerdsreg.png, id=351, 356.0803pt x 347.79938pt>
+File: billederogfigur/adfaerdsreg.png Graphic file (type png)
+
+<use billederogfigur/adfaerdsreg.png>
+Package pdftex.def Info: billederogfigur/adfaerdsreg.png used on input line 169
+.
+(pdftex.def)             Requested size: 249.25452pt x 243.4579pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 158--174
+\T1/futs/m/n/12 Mens den sven-ske tra-fik-tek-nik blev ud-ført ved om-rå-det, b
+lev der og-så ud-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 158--174
+\T1/futs/m/n/12 un-der-sø-gel-ses-spørgs-mål, kan bru-ge til at for-ud-se nog-l
+e for-må-e-de kon-flik-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 174.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 174.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 174.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 174.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 174.
+ [27]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 174.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 174.
+
+<billederogfigur/obstabel.png, id=357, 481.04718pt x 363.60844pt>
+File: billederogfigur/obstabel.png Graphic file (type png)
+
+<use billederogfigur/obstabel.png>
+Package pdftex.def Info: billederogfigur/obstabel.png used on input line 185.
+(pdftex.def)             Requested size: 481.046pt x 363.60754pt.
+
+Underfull \hbox (badness 1028) in paragraph at lines 177--197
+\T1/futs/m/n/12 min-dre end 2.5 sek ef-ter el-ler min-dre end 1.0 sek før fod-g
+æn-ge-ren. (kil-de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--197
+
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 177--197
+\T1/futs/b/n/12 "Alvorlig kon-flikt" \T1/futs/m/n/12 er de-fi-ne-ret ud af en a
+f-vær-ge-hand-ling, som vil-le ha-ve
+ []
+
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 197.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 197.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 197.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 197.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 197.
+ [28 <./billederogfigur/adfaerdsreg.png>]
+File: aau_logo_cropped.png Graphic file (type png)
+
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 197.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 197.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 197.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 197.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 197.
+=======
 
 <billederogfigur/konflikt.png, id=377, 376.40625pt x 208.52907pt>
 File: billederogfigur/konflikt.png Graphic file (type png)
@@ -3490,7 +4259,12 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 204.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 204.
+<<<<<<< HEAD
  [31 <./billederogfigur/obstabel.png>]
+=======
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+ [29 <./billederogfigur/obstabel.png>]
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 
 ! LaTeX Error: There's no line here to end.
 
@@ -3498,7 +4272,11 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
+<<<<<<< HEAD
+l.198 \\\\
+=======
 l.205 \\\\
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
           
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3511,17 +4289,33 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
+<<<<<<< HEAD
+l.199 \textbf
+             {"Uheld"} er	defineret	ved	en	kollision	mellem	to	parter.
+? 
+<billederogfigur/obstabelresult.png, id=373, 531.48563pt x 379.4175pt>
+=======
 l.206 \textbf
              {"Uheld"} er	defineret	ved	en	kollision	mellem	to	parter.
+<<<<<<< HEAD
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 <billederogfigur/obstabelresult.png, id=438, 531.48563pt x 379.4175pt>
+=======
+? 
+<billederogfigur/obstabelresult.png, id=372, 531.48563pt x 379.4175pt>
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 File: billederogfigur/obstabelresult.png Graphic file (type png)
 
 <use billederogfigur/obstabelresult.png>
 Package pdftex.def Info: billederogfigur/obstabelresult.png used on input line 
+<<<<<<< HEAD
+211.
+(pdftex.def)             Requested size: 531.48433pt x 379.41656pt.
+=======
 218.
 (pdftex.def)             Requested size: 531.48433pt x 379.41656pt.
 )) (Faglighed/losningforslag.tex
@@ -3624,6 +4418,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 )))
 File: aau_logo_cropped.png Graphic file (type png)
  <use aau_logo_cropped.png>
@@ -3637,7 +4432,16 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 32.
+<<<<<<< HEAD
  [34 <./billederogfigur/cykelsti.png>]
+=======
+<<<<<<< HEAD
+ [30 <./billederogfigur/obstabelresult.png>]
+=======
+
+[31]
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 File: aau_logo_cropped.png Graphic file (type png)
  <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 32.
@@ -3650,7 +4454,23 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 32.
+<<<<<<< HEAD
  [35] (Diskussion.tex
+=======
+<<<<<<< HEAD
+ [31]
+(Diskussion.tex
+=======
+ [32]
+\openout2 = `Faglighed/losningsforslag.aux'.
+
+
+No file Faglighed/losningsforslag.tex.
+\openout2 = `Diskussion.aux'.
+
+(./Diskussion.tex
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 Kapitel 5.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 3.
@@ -3664,12 +4484,44 @@ Package babel Info: Redefining danish shorthand "~
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
+<<<<<<< HEAD
 (babel)             in language  on input line 33.
  [36
 
 
 
 ] (Konklusion.tex
+=======
+<<<<<<< HEAD
+(babel)             in language  on input line 33.
+ [32
+=======
+(babel)             in language  on input line 34.
+ [33
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+
+
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+
+<<<<<<< HEAD
+] (Konklusion.tex
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+<<<<<<< HEAD
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 23.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+=======
+]
+\openout2 = `Konklusion.aux'.
+
+ (./Konklusion.tex
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 Kapitel 6.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
@@ -3677,14 +4529,37 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 )
 Package babel Info: Redefining danish shorthand "|
+<<<<<<< HEAD
 (babel)             in language  on input line 34.
+=======
+(babel)             in language  on input line 28.
+Package babel Info: Redefining danish shorthand "~
+<<<<<<< HEAD
+(babel)             in language  on input line 34.
+ [33
+=======
+(babel)             in language  on input line 28.
+=======
+(babel)             in language  on input line 35.
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 34.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining danish shorthand "~
+<<<<<<< HEAD
 (babel)             in language  on input line 34.
  [37
+=======
+(babel)             in language  on input line 35.
+ [34
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+
+LaTeX Warning: Reference `chap:interviews' on page 1 undefined on input line 29
+.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 
 
 
@@ -3704,10 +4579,90 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
+<<<<<<< HEAD
 Package natbib Warning: Citation `sources.bib' undefined on input line 40.
+=======
+<<<<<<< HEAD
+(appendix.tex
+
+! LaTeX Error: Environment appendics undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{appendics}
+                     
+? 
+Bilag A.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 4.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 4.
+
+Underfull \hbox (badness 5847) in paragraph at lines 6--8
+\T1/futs/m/n/12 Bilag: In-ter-view re-sul-ta-ter med for-bi-gå-en-de fod-gæn-ge
+-re og cyk-li-ster ved
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 49.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 49.
+[34
+
+
+
+]
+File: aau_logo_cropped.png Graphic file (type png)
+ <use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 96.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 96.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 96.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 96.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 96.
+ [35]
+
+! LaTeX Error: \begin{document} ended by \end{appendices}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121   \end{appendices}
+                        
+? 
+)
+File: aau_logo_cropped.png Graphic file (type png)
+ <use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 42.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 42.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 42.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 42.
+ [36]
+
+=======
+ []
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 
 (appendix.tex)
 
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 797.
 See the caption package documentation for explanation.
 
@@ -3719,38 +4674,108 @@ AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 44.
 Package babel Info: Redefining danish shorthand "~
+<<<<<<< HEAD
+=======
+(babel)             in language  on input line 41.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 41.
+ [21]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining danish shorthand "~
+<<<<<<< HEAD
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 (babel)             in language  on input line 44.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
 (master.aux (Forside.aux) (Titelblad.aux) (Forord.aux) (Indledning.aux
+<<<<<<< HEAD
+=======
+=======
+(babel)             in language  on input line 41.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+ (master.aux (Forside.aux) (Titelblad.aux)
+(Forord.aux) (Indledning.aux
+=======
+(babel)             in language  on input line 45.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 45.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
+(./master.aux (./Forside.aux) (./Titelblad.aux) (./Forord.aux)
+(./Indledning.aux
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 ! Missing \endcsname inserted.
 <to be read again> 
                    \T1\o 
 l.21 ...ce}{{2.3}{5}{Shared Space}{section.2.3}{}}
                                                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
+<<<<<<< HEAD
+=======
+? 
+<<<<<<< HEAD
+=======
 ! Extra \endcsname.
 \@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
                                                   \def \bbl@tempb {#3}\@safe...
 l.21 ...ce}{{2.3}{5}{Shared Space}{section.2.3}{}}
                                                   
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
+                                                  
+? 
+! Extra \endcsname.
+\@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
+                                                  
+<<<<<<< HEAD
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \T1\o 
-l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
+l.36 ...{8}{FÃ¸rste Oberservation}{section.2.4}{}}
                                                   
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+! Extra \endcsname.
+\@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.21 ...ce}{{2.3}{5}{Shared Space}{section.2.3}{}}
+                                                  
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
+                                                  
+? 
 ! Extra \endcsname.
 \@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
                                                   \def \bbl@tempb {#3}\@safe...
 l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
                                                   
+<<<<<<< HEAD
+? 
+) (Problemformulering.aux) (Analyseogresultater.aux) (Faglighed/tmar.aux)
+(Diskussion.aux) (Konklusion.aux) (appendix.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
+Package rerunfilecheck Info: File `master.out' has not changed.
+(rerunfilecheck)             Checksum: D568C7DD1160FC2020212193BD485E0A;1735.
+=======
 I'm ignoring this, since I wasn't doing a \csname.
 
 ) (Problemformulering.aux) (Analyseogresultater.aux) (Faglighed/tmar.aux)
@@ -3761,7 +4786,14 @@ Package rerunfilecheck Info: File `master.out' has not changed.
 (rerunfilecheck)             Checksum: 86CC6D5678658DA32A6EDF9372635B40;2555.
 
 
+<<<<<<< HEAD
 LaTeX Warning: There were undefined references.
+=======
+Package rerunfilecheck Warning: File `master.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3773,6 +4805,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--44
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  45258 strings out of 493673
  990698 string characters out of 3141524
  1193026 words of memory out of 3000000
@@ -3796,4 +4829,52 @@ PDF statistics:
  564 PDF objects out of 1000 (max. 8388607)
  105 named destinations out of 1000 (max. 500000)
  352 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+<<<<<<< HEAD
+ 45171 strings out of 493673
+ 988982 string characters out of 3141517
+ 1192848 words of memory out of 3000000
+ 47564 multiletter control sequences out of 15000+200000
+ 132226 words of font info for 140 fonts, out of 3000000 for 9000
+ 1026 hyphenation exceptions out of 8191
+ 57i,19n,92p,10410b,839s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Aqauo_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
+600\ectt1200.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.
+enc} <C:\Users\Aqauo_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
+pi600\ectt1095.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/fourier
+/fourier-ms.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/put
+b8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putbi8a.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putr8a.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on master.pdf (42 pages, 11413391 bytes).
+PDF statistics:
+ 493 PDF objects out of 1000 (max. 8388607)
+ 87 named destinations out of 1000 (max. 500000)
+ 283 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 44321 strings out of 493089
+ 979299 string characters out of 6134841
+ 1183108 words of memory out of 5000000
+ 46816 multiletter control sequences out of 15000+600000
+ 131267 words of font info for 137 fonts, out of 8000000 for 9000
+ 1142 hyphenation exceptions out of 8191
+ 57i,19n,92p,10426b,795s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/adobe/utopia/putbi8a.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/cm-super/sftt1200.pfb>
+Output written on master.pdf (40 pages, 11393944 bytes).
+PDF statistics:
+ 452 PDF objects out of 1000 (max. 8388607)
+ 379 compressed objects within 4 object streams
+ 88 named destinations out of 1000 (max. 500000)
+ 275 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
 
