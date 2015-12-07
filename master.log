@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.16)  7 DEC 2015 10:17
+=======
+<<<<<<< HEAD
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.26)  7 DEC 2015 10:19
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.16)  7 DEC 2015 10:08
+>>>>>>> 2a6d62230790082a9215b8ec839f20f4a595b8aa
+>>>>>>> de774806e4f471ecc3be9d3e69295d60e4192b8d
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1886,9 +1894,7 @@ Package csquotes Info: Redefining alias 'default' -> 'danish'.
                    \T1\o 
 l.21 ...ce}{{2.3}{5}{Shared Space}{section.2.3}{}}
                                                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
+? 
 
 LaTeX Warning: Label `sec:Fremf\IeC {\o }ring til shared space' multiply define
 d.
@@ -1898,17 +1904,13 @@ d.
                    \T1\o 
 l.21 ...ce}{{2.3}{5}{Shared Space}{section.2.3}{}}
                                                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
+? 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \T1\o 
 l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
                                                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
+? 
 
 LaTeX Warning: Label `sec:Fremf\IeC {\o }ring til shared space@cref' multiply d
 efined.
@@ -1918,11 +1920,10 @@ efined.
                    \T1\o 
 l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
                                                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
+? 
 ) (./Problemformulering.aux) (./Analyseogresultater.aux) (./Faglighed/tmar.aux)
-)
+(./Faglighed/losningsforslag.aux) (./Diskussion.aux) (./Konklusion.aux)
+(./appendix.aux))
 \openout1 = `master.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
@@ -1939,7 +1940,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 2.
 LaTeX Font Info:    Try loading font information for FML+futm on input line 2.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmlfutm.fd
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
 LaTeX Font Info:    ... okay on input line 2.
@@ -2128,7 +2130,7 @@ File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
 \openout2 = `Forside.aux'.
 
 
-(./Forside.tex <aau_logo_en.pdf, id=91, 115.43124pt x 77.28876pt>
+(./Forside.tex <aau_logo_en.pdf, id=103, 115.43124pt x 77.28876pt>
 File: aau_logo_en.pdf Graphic file (type pdf)
 
 <use aau_logo_en.pdf>
@@ -2190,9 +2192,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--35
 Underfull \hbox (badness 10000) in paragraph at lines 36--38
 
  []
-
-
-LaTeX Warning: Reference `LastPage' on page ii undefined on input line 40.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 39--41
@@ -2355,7 +2354,7 @@ Package babel Info: Redefining danish shorthand "~
 Package natbib Warning: Citation `datasheet_pir1' on page 3 undefined on input 
 line 11.
 
-<opserveringspunkter2.PNG, id=137, 505.28775pt x 493.24275pt>
+<opserveringspunkter2.PNG, id=204, 505.28775pt x 493.24275pt>
 File: opserveringspunkter2.PNG Graphic file (type png)
 
 <use opserveringspunkter2.PNG>
@@ -2384,16 +2383,12 @@ Package babel Info: Redefining danish shorthand "~
 [3
 
 
-] <aau_logo_cropped.png, id=143, 170.6375pt x 189.70876pt>
+] <aau_logo_cropped.png, id=210, 170.6375pt x 189.70876pt>
 File: aau_logo_cropped.png Graphic file (type png)
 
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 36.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 36.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "~
@@ -2402,20 +2397,15 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 36.
-[4 <./aau_logo_cropped.png (PNG copy)> <./opserveringspunkter2.PNG>]
+ [4 <./aau_logo_cropped.png (PNG copy)> <./opserveringspunkter2.PNG>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 36.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 36.
 File: aau_logo_cropped.png Graphic file (type png)
-
-<use aau_logo_cropped.png>
+ <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 52.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 52.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining danish shorthand "~
@@ -2424,15 +2414,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 52.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 52.
-[5]
+ [5]
 File: aau_logo_cropped.png Graphic file (type png)
  <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 65.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 65.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "~
@@ -2441,15 +2427,12 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 65.
+
 [6])
 File: aau_logo_cropped.png Graphic file (type png)
  <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 28.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 28.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "~
@@ -2458,7 +2441,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 28.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 28.
-[7]
+ [7]
 \openout2 = `Problemformulering.aux'.
 
  (./Problemformulering.tex
@@ -2476,10 +2459,7 @@ Type  H <return>  for immediate help.
                                                   
 l.6 \\\\
         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2490,10 +2470,7 @@ Type  H <return>  for immediate help.
 l.7 D
      et er interresant at se p√•, hvordan trafikken fungerer nede i Nytorv/√...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 7--17
 
@@ -2532,10 +2509,6 @@ File: aau_logo_cropped.png Graphic file (type png)
  <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 29.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 29.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 29.
 Package babel Info: Redefining danish shorthand "~
@@ -2544,13 +2517,14 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 29.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 29.
-[9]
+ [9]
 \openout2 = `Analyseogresultater.aux'.
 
  (./Analyseogresultater.tex)
 \openout2 = `Faglighed/tmar.aux'.
 
- (./Faglighed/tmar.tex
+
+(./Faglighed/tmar.tex
 Kapitel 4.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 2.
@@ -2570,7 +2544,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 
-<billederogfigur/Nytorvoverblik.jpg, id=173, 963.6pt x 722.7pt>
+<billederogfigur/Nytorvoverblik.jpg, id=243, 963.6pt x 722.7pt>
 File: billederogfigur/Nytorvoverblik.jpg Graphic file (type jpg)
 
 <use billederogfigur/Nytorvoverblik.jpg>
@@ -2591,7 +2565,7 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
- <./billederogfigur/Nytorvoverblik.jpg>] <billederogfigur/skiltning.jpg, id=179
+ <./billederogfigur/Nytorvoverblik.jpg>] <billederogfigur/skiltning.jpg, id=248
 , 541.02126pt x 963.6pt>
 File: billederogfigur/skiltning.jpg Graphic file (type jpg)
 
@@ -2609,11 +2583,8 @@ Type  H <return>  for immediate help.
 l.28 I
        omr√•det er der dog en del bustrafik, som ikke anbefales at benytte s...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<billederogfigur/Busstoppesteder.jpg, id=180, 541.02126pt x 963.6pt>
+? 
+<billederogfigur/Busstoppesteder.jpg, id=249, 541.02126pt x 963.6pt>
 File: billederogfigur/Busstoppesteder.jpg Graphic file (type jpg)
 
 <use billederogfigur/Busstoppesteder.jpg>
@@ -2624,10 +2595,6 @@ File: aau_logo_cropped.png Graphic file (type png)
  <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 42.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 42.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 42.
 Package babel Info: Redefining danish shorthand "~
@@ -2636,13 +2603,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 42.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 42.
-[11 <./billederogfigur/skiltning.jpg>]
+ [11 <./billederogfigur/skiltning.jpg>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 43.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 43.
 
-<billederogfigur/Fodfelt.jpg, id=186, 963.6pt x 722.7pt>
+<billederogfigur/Fodfelt.jpg, id=255, 963.6pt x 722.7pt>
 File: billederogfigur/Fodfelt.jpg Graphic file (type jpg)
 
 <use billederogfigur/Fodfelt.jpg>
@@ -2654,10 +2621,6 @@ File: aau_logo_cropped.png Graphic file (type png)
  <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 1.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 1.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2666,15 +2629,12 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+
 [12 <./billederogfigur/Busstoppesteder.jpg>]
 File: aau_logo_cropped.png Graphic file (type png)
  <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 1.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 1.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2683,6 +2643,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+
 [13 <./billederogfigur/Fodfelt.jpg>])
 (./Faglighed/analyseogresultater/trafiktaellinger.tex
 Package babel Info: Redefining danish shorthand "|
@@ -2734,10 +2695,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 22.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 22.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 22.
 Package babel Info: Redefining danish shorthand "~
@@ -2746,7 +2703,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 22.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 22.
-[14]
+ [14]
 
 LaTeX Warning: File `billederogfigur/taellingstype.jpg' not found on input line
  27.
@@ -2761,10 +2718,7 @@ Type  H <return>  for immediate help.
                                                   
 l.27 ...cale=1]{billederogfigur/taellingstype.jpg}
                                                   
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 
 LaTeX Warning: File `billederogfigur/krydstaelling.jpg' not found on input line
  36.
@@ -2779,10 +2733,7 @@ Type  H <return>  for immediate help.
                                                   
 l.36 ...cale=1]{billederogfigur/krydstaelling.jpg}
                                                   
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 41--48
 
@@ -2797,10 +2748,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 48.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 48.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 48.
 Package babel Info: Redefining danish shorthand "~
@@ -2809,7 +2756,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 48.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 48.
-[15]
+ [15]
 
 LaTeX Warning: File `billederogfigur/trafiktaellingen.jpg' not found on input l
 ine 53.
@@ -2824,10 +2771,7 @@ Type  H <return>  for immediate help.
                                                   
 l.53 ...e=1]{billederogfigur/trafiktaellingen.jpg}
                                                   
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 59.
 Package babel Info: Redefining danish shorthand "~
@@ -2836,10 +2780,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 65.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 65.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "~
@@ -2848,7 +2788,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 65.
-[16]
+ [16]
 
 LaTeX Warning: Command \r invalid in math mode on input line 65.
 
@@ -2917,10 +2857,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 86.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 86.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 86.
 Package babel Info: Redefining danish shorthand "~
@@ -2929,7 +2865,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 86.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 86.
-[17]
+ [17]
 
 LaTeX Warning: Command \r invalid in math mode on input line 89.
 
@@ -2964,10 +2900,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 111.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 111.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 111.
 Package babel Info: Redefining danish shorthand "~
@@ -2976,7 +2908,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 111.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 111.
-[18]
+ [18]
 
 LaTeX Warning: Command \r invalid in math mode on input line 114.
 
@@ -3011,10 +2943,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 138.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 138.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 138.
 Package babel Info: Redefining danish shorthand "~
@@ -3023,7 +2951,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 138.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 138.
-[19]
+ [19]
 
 LaTeX Warning: Command \r invalid in math mode on input line 139.
 
@@ -3058,10 +2986,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 5.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 5.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
@@ -3070,12 +2994,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 5.
-[20]
+ [20]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 10.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 10.
- <billederogfigur/konflikt.png, id=233, 376.40625pt x 208.52907pt>
+
+<billederogfigur/konflikt.png, id=307, 376.40625pt x 208.52907pt>
 File: billederogfigur/konflikt.png Graphic file (type png)
 
 <use billederogfigur/konflikt.png>
@@ -3113,10 +3038,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 26.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 26.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "~
@@ -3125,15 +3046,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 26.
-[21]
+ [21]
 File: aau_logo_cropped.png Graphic file (type png)
  <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 26.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 26.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "~
@@ -3142,7 +3059,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 26.
-[22 <./billederogfigur/konflikt.png>]
+ [22 <./billederogfigur/konflikt.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 34--36
 
  []
@@ -3152,7 +3069,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--36
 
  []
 
-<billederogfigur/tugraf.png, id=245, 320.69812pt x 252.19218pt>
+<billederogfigur/tugraf.png, id=320, 320.69812pt x 252.19218pt>
 File: billederogfigur/tugraf.png Graphic file (type png)
 
 <use billederogfigur/tugraf.png>
@@ -3167,10 +3084,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 54.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 54.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 54.
 Package babel Info: Redefining danish shorthand "~
@@ -3179,7 +3092,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 54.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 54.
-[23 <./billederogfigur/tugraf.png>]
+ [23 <./billederogfigur/tugraf.png>]
 
 ! LaTeX Error: Environment subfigure undefined.
 
@@ -3189,32 +3102,20 @@ Type  H <return>  for immediate help.
                                                   
 l.57 \begin{subfigure}
                       {1\textwidth}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 ! Missing number, treated as zero.
 <to be read again> 
                    }
 l.57 \begin{subfigure}{1\textwidth}
                                    
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
+? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
 l.57 \begin{subfigure}{1\textwidth}
                                    
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-<billederogfigur/rodmarkering.jpg, id=256, 5331.92pt x 2999.205pt>
+? 
+<billederogfigur/rodmarkering.jpg, id=331, 5331.92pt x 2999.205pt>
 File: billederogfigur/rodmarkering.jpg Graphic file (type jpg)
 
 <use billederogfigur/rodmarkering.jpg>
@@ -3231,10 +3132,7 @@ Type  H <return>  for immediate help.
                                                   
 l.62 \end{subfigure}
                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ! LaTeX Error: Environment subfigure undefined.
 
@@ -3244,32 +3142,20 @@ Type  H <return>  for immediate help.
                                                   
 l.63 \begin{subfigure}
                       {1\textwidth}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 ! Missing number, treated as zero.
 <to be read again> 
                    }
 l.63 \begin{subfigure}{1\textwidth}
                                    
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
+? 
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
 l.63 \begin{subfigure}{1\textwidth}
                                    
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-<billederogfigur/blaamarkering.jpg, id=257, 5331.92pt x 2999.205pt>
+? 
+<billederogfigur/blaamarkering.jpg, id=332, 5331.92pt x 2999.205pt>
 File: billederogfigur/blaamarkering.jpg Graphic file (type jpg)
 
 <use billederogfigur/blaamarkering.jpg>
@@ -3286,10 +3172,7 @@ Type  H <return>  for immediate help.
                                                   
 l.68 \end{subfigure}
                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 54--119
 
@@ -3309,10 +3192,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 123.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 123.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 123.
 Package babel Info: Redefining danish shorthand "~
@@ -3321,15 +3200,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 123.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 123.
-[24]
+ [24]
 File: aau_logo_cropped.png Graphic file (type png)
  <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 123.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 123.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 123.
 Package babel Info: Redefining danish shorthand "~
@@ -3338,7 +3213,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 123.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 123.
-[25 <./billederogfigur/rodmarkering.jpg> <./billederogfigur/blaamarkering.jpg>]
+ [25 <./billederogfigur/rodmarkering.jpg> <./billederogfigur/blaamarkering.jpg>
+]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 123.
 Package babel Info: Redefining danish shorthand "~
@@ -3376,10 +3252,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 157.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 157.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 157.
 Package babel Info: Redefining danish shorthand "~
@@ -3388,7 +3260,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 157.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 157.
-[26] <billederogfigur/adfaerdsreg.png, id=273, 356.0803pt x 347.79938pt>
+ [26]
+<billederogfigur/adfaerdsreg.png, id=350, 356.0803pt x 347.79938pt>
 File: billederogfigur/adfaerdsreg.png Graphic file (type png)
 
 <use billederogfigur/adfaerdsreg.png>
@@ -3433,10 +3306,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 181.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 181.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 181.
 Package babel Info: Redefining danish shorthand "~
@@ -3445,12 +3314,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 181.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 181.
-[27]
+ [27]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 181.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 181.
- <billederogfigur/obstabel.png, id=278, 481.04718pt x 363.60844pt>
+
+<billederogfigur/obstabel.png, id=356, 481.04718pt x 363.60844pt>
 File: billederogfigur/obstabel.png Graphic file (type png)
 
 <use billederogfigur/obstabel.png>
@@ -3487,10 +3357,6 @@ File: aau_logo_cropped.png Graphic file (type png)
 <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 204.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 28 undefined on input line 204.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 204.
 Package babel Info: Redefining danish shorthand "~
@@ -3499,15 +3365,12 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 204.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 204.
-[28 <./billederogfigur/adfaerdsreg.png>]
+ [28 <./billederogfigur/adfaerdsreg.png>]
 File: aau_logo_cropped.png Graphic file (type png)
- <use aau_logo_cropped.png>
+
+<use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 204.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 204.
-
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 204.
 Package babel Info: Redefining danish shorthand "~
@@ -3516,7 +3379,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 204.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 204.
-[29 <./billederogfigur/obstabel.png>]
+ [29 <./billederogfigur/obstabel.png>]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -3526,10 +3389,7 @@ Type  H <return>  for immediate help.
                                                   
 l.205 \\\\
           
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ! LaTeX Error: There's no line here to end.
 
@@ -3539,48 +3399,235 @@ Type  H <return>  for immediate help.
                                                   
 l.206 \textbf
              {"Uheld"} er	defineret	ved	en	kollision	mellem	to	parter.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Reference `fig:adfregtabelresult' on page 1 undefined on input l
-ine 210.
-
-<billederogfigur/obstabelresult.png, id=293, 531.48563pt x 379.4175pt>
+? 
+<billederogfigur/obstabelresult.png, id=372, 531.48563pt x 379.4175pt>
 File: billederogfigur/obstabelresult.png Graphic file (type png)
 
 <use billederogfigur/obstabelresult.png>
 Package pdftex.def Info: billederogfigur/obstabelresult.png used on input line 
 218.
 (pdftex.def)             Requested size: 531.48433pt x 379.41656pt.
+)) (./Faglighed/losningforslag.tex
+File: aau_logo_cropped.png Graphic file (type png)
+
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 1.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+ [30 <./billederogfigur/obstabelresult.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+
+(./Faglighed/loosningforslag/cykelsti.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+(./Faglighed/loosningforslag/hvidfodgaengeroverfelt.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+(./Faglighed/loosningforslag/rundkoersel.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)
+(./Faglighed/loosningforslag/bussluse.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+)))
+File: aau_logo_cropped.png Graphic file (type png)
+ <use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 32.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 32.
+
+[31]
+File: aau_logo_cropped.png Graphic file (type png)
+ <use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 32.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 32.
+ [32]
+\openout2 = `Faglighed/losningsforslag.aux'.
 
 
-LaTeX Warning: Reference `fig:adfregtabelresult' on page 1 undefined on input l
-ine 223.
+No file Faglighed/losningsforslag.tex.
+\openout2 = `Diskussion.aux'.
 
-))
+(./Diskussion.tex
+Kapitel 5.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 3.
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 34.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 34.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 34.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 34.
+ [33
 
-! LaTeX Error: File `Faglighed/losningsforslag.tex' not found.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: tex)
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.7 \input{Faglighed/losningsforslag}
-                                     ^^M
-*** (cannot \read from terminal in nonstop modes)
 
- 
+
+]
+\openout2 = `Konklusion.aux'.
+
+ (./Konklusion.tex
+Kapitel 6.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 2.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 2.
+)
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 35.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 35.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 35.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 35.
+ [34
+
+
+
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 39.
+
+! Undefined control sequence.
+l.40   \printbibliography
+                         
+? 
+
+Package natbib Warning: Citation `sources.bib' undefined on input line 41.
+
+\openout2 = `appendix.aux'.
+
+(./appendix.tex)
+
+Package caption Warning: Unused \captionsetup[lstlisting] on input line 797.
+See the caption package documentation for explanation.
+
+
+Package natbib Warning: There were undefined citations.
+
+
+AED: lastpage setting LastPage
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 45.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
+(./master.aux (./Forside.aux) (./Titelblad.aux) (./Forord.aux)
+(./Indledning.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.21 ...ce}{{2.3}{5}{Shared Space}{section.2.3}{}}
+                                                  
+? 
+! Extra \endcsname.
+\@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.21 ...ce}{{2.3}{5}{Shared Space}{section.2.3}{}}
+                                                  
+? 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \T1\o 
+l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
+                                                  
+? 
+! Extra \endcsname.
+\@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
+                                                  
+? 
+) (./Problemformulering.aux) (./Analyseogresultater.aux) (./Faglighed/tmar.aux)
+(./Faglighed/losningsforslag.aux) (./Diskussion.aux) (./Konklusion.aux)
+(./appendix.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
+
+
+Package rerunfilecheck Warning: File `master.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `master.out':
+(rerunfilecheck)             Before: 63ACB826C3CB73CF3967194273CC5652;1668
+(rerunfilecheck)             After:  12D3B290FCC6272367503CCF306E0CEF;1925.
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--45
+[]\T1/futs/m/n/12 ¯ring til sha-red spa-ce ¯ring til sha-red spa-
+ []
+
+ ) 
 Here is how much of TeX's memory you used:
- 44230 strings out of 493089
- 977630 string characters out of 6134841
+ 44321 strings out of 493089
+ 979299 string characters out of 6134841
  1183108 words of memory out of 5000000
- 46794 multiletter control sequences out of 15000+600000
+ 46816 multiletter control sequences out of 15000+600000
  131267 words of font info for 137 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  57i,19n,92p,10426b,795s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/adobe/utopia/putbi8a.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf-dist/
+fonts/type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
+pe1/public/cm-super/sftt1200.pfb>
+Output written on master.pdf (40 pages, 11393944 bytes).
+PDF statistics:
+ 452 PDF objects out of 1000 (max. 8388607)
+ 379 compressed objects within 4 object streams
+ 88 named destinations out of 1000 (max. 500000)
+ 275 words of extra memory for PDF output out of 10000 (max. 10000000)
+
