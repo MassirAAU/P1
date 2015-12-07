@@ -4,6 +4,13 @@
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Kort over Aalborg Midtby\relax }}{4}{figure.caption.5}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+<<<<<<< HEAD
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Inddeling af konflikter\relax }}{13}{figure.caption.6}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces TU-graf\relax }}{13}{figure.caption.7}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Adf\IeC {\ae }rdsregistrering\relax }}{15}{figure.caption.8}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Adf\IeC {\ae }rdsregistreringstabel\relax }}{16}{figure.caption.9}
+=======
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Oveblik over Nytorv\relax }}{10}{figure.caption.6}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces Skiltning rundt om omr\IeC {\r a}det\relax }}{11}{figure.caption.7}
 \contentsline {figure}{\numberline {4.3}{\ignorespaces De to busstoppesteder\relax }}{12}{figure.caption.8}
@@ -19,6 +26,10 @@
 \contentsline {figure}{\numberline {4.13}{\ignorespaces Adf\IeC {\ae }rdsregistrering\relax }}{28}{figure.caption.16}
 \contentsline {figure}{\numberline {4.14}{\ignorespaces Adf\IeC {\ae }rdsregistreringstabel\relax }}{29}{figure.caption.17}
 \contentsline {figure}{\numberline {4.15}{\ignorespaces Adf\IeC {\ae }rdsregistreringstabel med resultater\relax }}{30}{figure.caption.18}
+<<<<<<< HEAD
+\addvspace {10\p@ }
+=======
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
