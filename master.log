@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.16)  7 DEC 2015 09:26
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.26)  4 DEC 2015 13:26
->>>>>>> 44b01d64de439d55154006bfeba7287d62b5dc2a
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.16)  7 DEC 2015 09:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1925,14 +1921,8 @@ l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
 
-) (./Problemformulering.aux) (./Analyseogresultater.aux) (./Faglighed/tmar.aux
-
-LaTeX Warning: Label `sub:def_konflikt' multiply defined.
-
-
-LaTeX Warning: Label `sub:def_konflikt@cref' multiply defined.
-
-) (./Diskussion.aux) (./Konklusion.aux) (./appendix.aux))
+) (./Problemformulering.aux) (./Analyseogresultater.aux) (./Faglighed/tmar.aux)
+(./Diskussion.aux) (./Konklusion.aux) (./appendix.aux))
 \openout1 = `master.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
@@ -2139,7 +2129,7 @@ File: ts1futs.fd 2004/03/26 Fontinst v1.926 font definitions for TS1/futs.
 \openout2 = `Forside.aux'.
 
 
-(./Forside.tex <aau_logo_en.pdf, id=95, 115.43124pt x 77.28876pt>
+(./Forside.tex <aau_logo_en.pdf, id=99, 115.43124pt x 77.28876pt>
 File: aau_logo_en.pdf Graphic file (type pdf)
 
 <use aau_logo_en.pdf>
@@ -2363,7 +2353,7 @@ Package babel Info: Redefining danish shorthand "~
 Package natbib Warning: Citation `datasheet_pir1' on page 3 undefined on input 
 line 11.
 
-<opserveringspunkter2.PNG, id=180, 505.28775pt x 493.24275pt>
+<opserveringspunkter2.PNG, id=199, 505.28775pt x 493.24275pt>
 File: opserveringspunkter2.PNG Graphic file (type png)
 
 <use opserveringspunkter2.PNG>
@@ -2392,7 +2382,7 @@ Package babel Info: Redefining danish shorthand "~
 [3
 
 
-] <aau_logo_cropped.png, id=186, 170.6375pt x 189.70876pt>
+] <aau_logo_cropped.png, id=205, 170.6375pt x 189.70876pt>
 File: aau_logo_cropped.png Graphic file (type png)
 
 <use aau_logo_cropped.png>
@@ -2559,7 +2549,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 2.
 
-<billederogfigur/Nytorvoverblik.jpg, id=219, 963.6pt x 722.7pt>
+<billederogfigur/Nytorvoverblik.jpg, id=238, 963.6pt x 722.7pt>
 File: billederogfigur/Nytorvoverblik.jpg Graphic file (type jpg)
 
 <use billederogfigur/Nytorvoverblik.jpg>
@@ -2580,7 +2570,7 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
- <./billederogfigur/Nytorvoverblik.jpg>] <billederogfigur/skiltning.jpg, id=224
+ <./billederogfigur/Nytorvoverblik.jpg>] <billederogfigur/skiltning.jpg, id=243
 , 541.02126pt x 963.6pt>
 File: billederogfigur/skiltning.jpg Graphic file (type jpg)
 
@@ -2602,7 +2592,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<billederogfigur/Busstoppesteder.jpg, id=225, 541.02126pt x 963.6pt>
+<billederogfigur/Busstoppesteder.jpg, id=244, 541.02126pt x 963.6pt>
 File: billederogfigur/Busstoppesteder.jpg Graphic file (type jpg)
 
 <use billederogfigur/Busstoppesteder.jpg>
@@ -2627,7 +2617,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 43.
 
-<billederogfigur/Fodfelt.jpg, id=231, 963.6pt x 722.7pt>
+<billederogfigur/Fodfelt.jpg, id=250, 963.6pt x 722.7pt>
 File: billederogfigur/Fodfelt.jpg Graphic file (type jpg)
 
 <use billederogfigur/Fodfelt.jpg>
@@ -2810,15 +2800,6 @@ Package pdftex.def Info: aau_logo_cropped.png used on input line 65.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "~
-<<<<<<< HEAD
-(babel)             in language  on input line 3.
- [18 <./billederogfigur/Taellingstabel.png> <./billederogfigur/krydstaelling.pn
-g>] (./Faglighed/analyseogresultater/sharedspace.tex
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 2.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 2.
-=======
 (babel)             in language  on input line 65.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 65.
@@ -2919,7 +2900,6 @@ LaTeX Warning: Command \r invalid in math mode on input line 99.
 
 
 LaTeX Warning: Command \r invalid in math mode on input line 99.
->>>>>>> 44b01d64de439d55154006bfeba7287d62b5dc2a
 
 
 LaTeX Warning: Command \r invalid in math mode on input line 104.
@@ -3035,51 +3015,452 @@ Package babel Info: Redefining danish shorthand "~
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 10.
 Package babel Info: Redefining danish shorthand "~
-<<<<<<< HEAD
-(babel)             in language  on input line 43.
-
-<billederogfigur/Fodfelt.jpg, id=377, 963.6pt x 722.7pt>
-File: billederogfigur/Fodfelt.jpg Graphic file (type jpg)
-
-<use billederogfigur/Fodfelt.jpg>
-Package pdftex.def Info: billederogfigur/Fodfelt.jpg used on input line 51.
-(pdftex.def)             Requested size: 289.08223pt x 216.81166pt.
-)
-(./Faglighed/analyseogresultater/interviews.tex
-=======
 (babel)             in language  on input line 10.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 13.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 13.
->>>>>>> 44b01d64de439d55154006bfeba7287d62b5dc2a
+
+<billederogfigur/konflikt.png, id=302, 376.40625pt x 208.52907pt>
+File: billederogfigur/konflikt.png Graphic file (type png)
+
+<use billederogfigur/konflikt.png>
+Package pdftex.def Info: billederogfigur/konflikt.png used on input line 22.
+(pdftex.def)             Requested size: 376.40532pt x 208.52855pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--26
+
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 12--26
+\T1/futs/m/n/12 Metoderne bag næ-ste ob-ser-va-tion var, at iden-ti-fi-ce-re ko
+n-flik-ter ved om-rå-
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 12--26
+\T1/futs/m/n/12 som sam-men-stød mel-lem to tra-fik-kan-ter, men dog ude-luk-ke
+r den sven-ske
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--26
+
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 12--26
+\T1/futs/m/n/12 Den sven-ske tra-fik-tek-nik be-skri-ver en kon-flikt mel-lem t
+o tra-fik-kan-ter, som
+ []
+
 File: aau_logo_cropped.png Graphic file (type png)
- <use aau_logo_cropped.png>
-Package pdftex.def Info: aau_logo_cropped.png used on input line 38.
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 26.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 38.
- [21])))
+(babel)             in language  on input line 26.
+ [21]
+File: aau_logo_cropped.png Graphic file (type png)
+ <use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 26.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 26.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 26.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 26.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 26.
+ [22 <./billederogfigur/konflikt.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+<billederogfigur/tugraf.png, id=315, 320.69812pt x 252.19218pt>
+File: billederogfigur/tugraf.png Graphic file (type png)
+
+<use billederogfigur/tugraf.png>
+Package pdftex.def Info: billederogfigur/tugraf.png used on input line 41.
+(pdftex.def)             Requested size: 320.69733pt x 252.19156pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 54.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 54.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 54.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 54.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 54.
+ [23 <./billederogfigur/tugraf.png>]
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 \begin{subfigure}
+                      {1\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.57 \begin{subfigure}{1\textwidth}
+                                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.57 \begin{subfigure}{1\textwidth}
+                                   
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<billederogfigur/rodmarkering.jpg, id=326, 5331.92pt x 2999.205pt>
+File: billederogfigur/rodmarkering.jpg Graphic file (type jpg)
+
+<use billederogfigur/rodmarkering.jpg>
+Package pdftex.def Info: billederogfigur/rodmarkering.jpg used on input line 59
+.
+(pdftex.def)             Requested size: 402.32022pt x 226.30359pt.
+
+
+! LaTeX Error: \begin{figure} on input line 55 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \end{subfigure}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \begin{subfigure}
+                      {1\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.63 \begin{subfigure}{1\textwidth}
+                                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.63 \begin{subfigure}{1\textwidth}
+                                   
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<billederogfigur/blaamarkering.jpg, id=327, 5331.92pt x 2999.205pt>
+File: billederogfigur/blaamarkering.jpg Graphic file (type jpg)
+
+<use billederogfigur/blaamarkering.jpg>
+Package pdftex.def Info: billederogfigur/blaamarkering.jpg used on input line 6
+5.
+(pdftex.def)             Requested size: 402.32022pt x 226.30359pt.
+
+
+! LaTeX Error: \begin{figure} on input line 55 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 \end{subfigure}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--119
+
+ []
+
+
+Overfull \hbox (17.56555pt too wide) in paragraph at lines 54--119
+[] 
+ []
+
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 123.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 123.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 123.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 123.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 123.
+ [24]
+File: aau_logo_cropped.png Graphic file (type png)
+ <use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 123.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 123.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 123.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 123.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 123.
+ [25 <./billederogfigur/rodmarkering.jpg> <./billederogfigur/blaamarkering.jpg>
+]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 123.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 123.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--155
+\T1/futs/m/n/12 Som tid-li-ge-re nævnt, så blev di-stan-cen for hvert kon-flikt
+ no-te-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--155
+\T1/futs/m/n/12 ret, hvil-ket gø-re det mu-ligt at be-reg-ne en me-re præ-cis T
+A-værdi.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--155
+\T1/futs/m/n/12 Ta-bel X, vi-ser den be-reg-ne-de TA-værdi for den be-stemt ha-
+stig-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--155
+\T1/futs/m/n/12 hed samt di-stan-ce som blev må-lt un-der ud-fø-rel-sen af me-t
+o-den.
+ []
+
+
+Overfull \hbox (17.56555pt too wide) in paragraph at lines 126--155
+[] 
+ []
+
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 157.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 157.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 157.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 157.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 157.
+ [26]
+<billederogfigur/adfaerdsreg.png, id=345, 356.0803pt x 347.79938pt>
+File: billederogfigur/adfaerdsreg.png Graphic file (type png)
+
+<use billederogfigur/adfaerdsreg.png>
+Package pdftex.def Info: billederogfigur/adfaerdsreg.png used on input line 176
+.
+(pdftex.def)             Requested size: 249.25452pt x 243.4579pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--181
+
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 157--181
+\T1/futs/m/n/12 Mens den sven-ske tra-fik-tek-nik blev ud-ført ved om-rå-det, b
+lev der og-så ud-
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 157--181
+\T1/futs/m/n/12 hånd op-stil-le nog-le hy-po-te-ser, som man via nog-le un-der-
+sø-gel-ses-spørgs-mål,
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 157--181
+\T1/futs/m/n/12 kan bru-ge til at for-ud-se nog-le for-må-e-de kon-flik-ter mel
+-lem nog-le be-stem-te
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 157--181
+\T1/futs/m/n/12 mel-lem fod-gæn-ge-re og bi-ler på ob-ser-va-tions-ste-det. Ud-
+gangs-punk-tet her-fra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--181
+
+ []
+
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 181.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 181.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 181.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 181.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 181.
+ [27]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 181.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 181.
+
+<billederogfigur/obstabel.png, id=351, 481.04718pt x 363.60844pt>
+File: billederogfigur/obstabel.png Graphic file (type png)
+
+<use billederogfigur/obstabel.png>
+Package pdftex.def Info: billederogfigur/obstabel.png used on input line 192.
+(pdftex.def)             Requested size: 481.046pt x 363.60754pt.
+
+Underfull \hbox (badness 1028) in paragraph at lines 184--204
+\T1/futs/m/n/12 min-dre end 2.5 sek ef-ter el-ler min-dre end 1.0 sek før fod-g
+æn-ge-ren.^^Q (kil-de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--204
+
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 184--204
+\T1/futs/b/n/12 "Alvorlig kon-flikt" \T1/futs/m/n/12 er de-fi-ne-ret ud af en a
+f-vær-ge-hand-ling, som vil-le ha-ve
+ []
+
+File: aau_logo_cropped.png Graphic file (type png)
+<use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 204.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 204.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 204.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 204.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 204.
+ [28 <./billederogfigur/adfaerdsreg.png>]
 File: aau_logo_cropped.png Graphic file (type png)
 
 <use aau_logo_cropped.png>
-Package pdftex.def Info: aau_logo_cropped.png used on input line 32.
+Package pdftex.def Info: aau_logo_cropped.png used on input line 204.
 (pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 204.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 204.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 204.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
- [22]
+(babel)             in language  on input line 204.
+ [29 <./billederogfigur/obstabel.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.205 \\\\
+          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.206 \textbf
+             {"Uheld"} er	defineret	ved	en	kollision	mellem	to	parter.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<billederogfigur/obstabelresult.png, id=367, 531.48563pt x 379.4175pt>
+File: billederogfigur/obstabelresult.png Graphic file (type png)
+
+<use billederogfigur/obstabelresult.png>
+Package pdftex.def Info: billederogfigur/obstabelresult.png used on input line 
+218.
+(pdftex.def)             Requested size: 531.48433pt x 379.41656pt.
+)))
 File: aau_logo_cropped.png Graphic file (type png)
  <use aau_logo_cropped.png>
 Package pdftex.def Info: aau_logo_cropped.png used on input line 32.
@@ -3092,7 +3473,20 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 32.
- [23]
+ [30 <./billederogfigur/obstabelresult.png>]
+File: aau_logo_cropped.png Graphic file (type png)
+ <use aau_logo_cropped.png>
+Package pdftex.def Info: aau_logo_cropped.png used on input line 32.
+(pdftex.def)             Requested size: 42.65926pt x 47.42706pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 32.
+ [31]
 \openout2 = `Diskussion.aux'.
 
 
@@ -3111,7 +3505,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 33.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 33.
- [24
+ [32
 
 
 
@@ -3133,7 +3527,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 34.
- [25
+ [33
 
 
 
@@ -3159,7 +3553,7 @@ Package natbib Warning: Citation `sources.bib' undefined on input line 40.
 
 (./appendix.tex)
 
-Package caption Warning: Unused \captionsetup[lstlisting] on input line 795.
+Package caption Warning: Unused \captionsetup[lstlisting] on input line 797.
 See the caption package documentation for explanation.
 
 
@@ -3210,7 +3604,7 @@ I'm ignoring this, since I wasn't doing a \csname.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: AEDB72CB7749F5C45626ABBCCA0931FB;1528.
+(rerunfilecheck)             Checksum: ACF4B2E3EF2033FBE142F69635D54A39;1604.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -3222,15 +3616,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--44
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 44298 strings out of 493089
- 978916 string characters out of 6134841
-=======
- 44200 strings out of 493089
- 976548 string characters out of 6134841
->>>>>>> 44b01d64de439d55154006bfeba7287d62b5dc2a
- 1175108 words of memory out of 5000000
- 46745 multiletter control sequences out of 15000+600000
+ 44284 strings out of 493089
+ 978404 string characters out of 6134841
+ 1183108 words of memory out of 5000000
+ 46806 multiletter control sequences out of 15000+600000
  131267 words of font info for 137 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  57i,19n,92p,10426b,795s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3241,22 +3630,12 @@ ive/2015/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/201
 5/texmf-dist/fonts/type1/adobe/utopia/putbi8a.pfb></usr/local/texlive/2015/texm
 f-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2015/texmf-dist/
 fonts/type1/adobe/utopia/putri8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/
-<<<<<<< HEAD
-type1/public/cm-super/sftt1095.pfb>
-Output written on master.pdf (32 pages, 2185323 bytes).
-PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
- 377 compressed objects within 4 object streams
- 85 named destinations out of 1000 (max. 500000)
- 366 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
 type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/cm-super/sftt1200.pfb>
-Output written on master.pdf (31 pages, 1753870 bytes).
+Output written on master.pdf (39 pages, 11389328 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
- 296 compressed objects within 3 object streams
- 66 named destinations out of 1000 (max. 500000)
- 224 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 44b01d64de439d55154006bfeba7287d62b5dc2a
+ 437 PDF objects out of 1000 (max. 8388607)
+ 365 compressed objects within 4 object streams
+ 82 named destinations out of 1000 (max. 500000)
+ 267 words of extra memory for PDF output out of 10000 (max. 10000000)
 
