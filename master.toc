@@ -6,3 +6,83 @@
 \contentsline {section}{\numberline {2.3}Shared Space}{5}{section.2.3}
 \contentsline {chapter}{\numberline {3}Problemformulering}{8}{chapter.3}
 \contentsline {section}{\numberline {3.1}Afgr\IeC {\ae }nsning}{8}{section.3.1}
+<<<<<<< HEAD
+=======
+\contentsline {chapter}{\numberline {4}Unders\IeC {\o }gelse af trygheden p\IeC {\r a} Nytorv}{10}{chapter.4}
+\contentsline {section}{\numberline {4.1}Analyse og resultater}{10}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Shared Space tr\IeC {\ae }k i Nytorv/\IeC {\O }ster\IeC {\r a}gade omr\IeC {\r a}det}{10}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Trafikanternes benyttelse af Nytorv som et Shared Space}{12}{subsection.4.1.2}
+<<<<<<< HEAD
+\contentsline {subsection}{\numberline {4.1.3}Interviews}{14}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Anvendelse af interviews i praksis}{14}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Form\IeC {\r a}lene med interviewene ved Nytorv/\IeC {\O }ster\IeC {\r a}gade i Aalborg}{15}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Interview resultaterne med forbig\IeC {\r a}ende fodg\IeC {\ae }ngere og cyklister ved Nytorv/\IeC {\O }ster\IeC {\r a}gade i Aalborg}{15}{subsection.4.1.6}
+\contentsline {section}{\numberline {4.2}Trafikt\IeC {\ae }llinger}{17}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Manuel t\IeC {\ae }lling}{17}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Opregning af trafikt\IeC {\ae }llinger til \IeC {\r A}DT}{19}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}\IeC {\r A}DT}{20}{subsection.4.2.3}
+\contentsline {subsubsection}{Cyklernes samlede \IeC {\r A}DT p\IeC {\r a} Nytorv i Aalborg}{20}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Boulevarden mod Havnen}{21}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Boulevarden mod Nytorv}{21}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Nytorv mod Boulevarden}{21}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Nytorv mod Nytorv}{21}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Havnen mod Boulevarden}{21}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Havnen mod Nytorv}{22}{subsection.4.2.3}
+\contentsline {subsubsection}{Bilernes samlede \IeC {\r A}DT p\IeC {\r a} Nytorv i Aalborg}{22}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Boulevarden mod Havnen}{22}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Boulevarden mod Nytorv}{22}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Nytorv mod Boulevarden}{22}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Nytorv mod Havnen}{23}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Havnen mod Boulevarden}{23}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Havnen mod Nytorv}{23}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}F\IeC {\o }rste observation}{23}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Dybbere unders\IeC {\o }gelse af f\IeC {\o }rste observation}{24}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Resultater af observation}{28}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Adf\IeC {\ae }rdsregistrering}{30}{subsection.4.2.7}
+\contentsline {section}{\numberline {4.3}L\IeC {\o }sningforslag}{33}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Cykelbane som l\IeC {\o }sningforslag for et tryggere omr\IeC {\r a}de i Nytorv}{33}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Forskellen p\IeC {\r a} cykelsti og cykelbane}{33}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Hvidt fodg\IeC {\ae }ngeroverfelt}{34}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Rundk\IeC {\o }rsel}{34}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Bussluse}{34}{subsection.4.3.5}
+\contentsline {chapter}{\numberline {5}Diskussion}{36}{chapter.5}
+\contentsline {chapter}{\numberline {6}Konklusion}{37}{chapter.6}
+=======
+\contentsline {section}{\numberline {4.2}Trafikt\IeC {\ae }llinger}{14}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Manuel t\IeC {\ae }lling}{14}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Opregning af trafikt\IeC {\ae }llinger til \IeC {\r A}DT}{17}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}\IeC {\r A}DT}{18}{subsection.4.2.3}
+\contentsline {subsubsection}{Cyklernes samlede \IeC {\r A}DT p\IeC {\r a} Nytorv i Aalborg}{18}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Boulevarden mod Havnen}{18}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Boulevarden mod Nytorv}{18}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Nytorv mod Boulevarden}{18}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Nytorv mod Nytorv}{18}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Havnen mod Boulevarden}{19}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for cykler fra Havnen mod Nytorv}{19}{subsection.4.2.3}
+\contentsline {subsubsection}{Bilernes samlede \IeC {\r A}DT p\IeC {\r a} Nytorv i Aalborg}{19}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Boulevarden mod Havnen}{19}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Boulevarden mod Nytorv}{19}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Nytorv mod Boulevarden}{20}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Nytorv mod Havnen}{20}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Havnen mod Boulevarden}{20}{subsection.4.2.3}
+\contentsline {subsubsection}{\IeC {\r A}DT for biler fra Havnen mod Nytorv}{20}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}F\IeC {\o }rste observation}{21}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Dybbere unders\IeC {\o }gelse af f\IeC {\o }rste observation}{21}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Resultater af observation}{26}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Adf\IeC {\ae }rdsregistrering}{28}{subsection.4.2.7}
+<<<<<<< HEAD
+\contentsline {chapter}{\numberline {5}Diskussion}{32}{chapter.5}
+\contentsline {chapter}{\numberline {6}Konklusion}{33}{chapter.6}
+\contentsline {chapter}{\numberline {A}Interviews}{34}{appendix.A}
+=======
+\contentsline {section}{\numberline {4.3}L\IeC {\o }sningforslag}{31}{section.4.3}
+\contentsline {section}{\numberline {4.4}Cykelsti}{31}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Hvidt fodg\IeC {\ae }ngeroverfelt}{31}{subsection.4.4.1}
+\contentsline {section}{\numberline {4.5}Rundk\IeC {\o }rsel}{31}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Bussluse}{31}{subsection.4.5.1}
+\contentsline {chapter}{\numberline {5}Diskussion}{33}{chapter.5}
+\contentsline {chapter}{\numberline {6}Konklusion}{34}{chapter.6}
+>>>>>>> 1151eb1d6924fc51673528b2ad608e16eed7664c
+>>>>>>> 6eb3b286c4999f47222c99e98c239cc964bfe957
+>>>>>>> 9d8d24cbfb2fc9f6dfbd08d34332f15fe5348a33
+>>>>>>> fd7bded0e9130e2abfc03b6c27c49a37aeabe04a
