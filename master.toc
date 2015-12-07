@@ -30,6 +30,7 @@
 \contentsline {subsubsection}{\IeC {\r A}DT for biler fra Havnen mod Nytorv}{20}{subsection.4.2.3}
 \contentsline {subsection}{\numberline {4.2.4}F\IeC {\o }rste observation}{21}{subsection.4.2.4}
 \contentsline {subsection}{\numberline {4.2.5}Dybbere unders\IeC {\o }gelse af f\IeC {\o }rste observation}{21}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}Resultater af observation}{21}{subsection.4.2.6}
-\contentsline {chapter}{\numberline {5}Diskussion}{24}{chapter.5}
-\contentsline {chapter}{\numberline {6}Konklusion}{25}{chapter.6}
+\contentsline {subsection}{\numberline {4.2.6}Resultater af observation}{26}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Adf\IeC {\ae }rdsregistrering}{28}{subsection.4.2.7}
+\contentsline {chapter}{\numberline {5}Diskussion}{32}{chapter.5}
+\contentsline {chapter}{\numberline {6}Konklusion}{33}{chapter.6}
