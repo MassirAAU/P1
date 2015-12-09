@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.26)  7 DEC 2015 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.26)  8 DEC 2015 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1889,9 +1889,7 @@ No file Forord.aux.
                    \T1\o 
 l.21 ...ce}{{2.3}{5}{Shared Space}{section.2.3}{}}
                                                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
+? 
 
 LaTeX Warning: Label `sec:Fremf\IeC {\o }ring til shared space' multiply define
 d.
@@ -1901,17 +1899,13 @@ d.
                    \T1\o 
 l.21 ...ce}{{2.3}{5}{Shared Space}{section.2.3}{}}
                                                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
+? 
 ! Missing \endcsname inserted.
 <to be read again> 
                    \T1\o 
 l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
                                                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
+? 
 
 LaTeX Warning: Label `sec:Fremf\IeC {\o }ring til shared space@cref' multiply d
 efined.
@@ -1921,9 +1915,7 @@ efined.
                    \T1\o 
 l.22 ...hared space@cref}{{[section][3][2]2.3}{5}}
                                                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
+? 
 )
 Runaway definition?
 -> \setcounter {page}{8} <<<<<<< HEAD ======= ======= <<<<<<< HEAD \@setckpt \E
@@ -1933,11 +1925,7 @@ TC.
                 }
 l.29 \@input{Indledning.aux}
                             
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
+? 
 )
 Runaway definition?
 -> \setcounter {page}{8} <<<<<<< HEAD ======= ======= <<<<<<< HEAD \@setckpt \E
@@ -1947,29 +1935,19 @@ TC.
                 }
 l.2 \begin{document}
                     
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
+? 
 ! Illegal parameter number in definition of \cp@Indledning.
 <to be read again> 
                    1
 l.2 \begin{document}
                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
+? 
 ! Illegal parameter number in definition of \cp@Indledning.
 <to be read again> 
                    1
 l.2 \begin{document}
                     
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
+? 
 )
 Runaway definition?
 -> \setcounter {page}{8} <<<<<<< HEAD ======= ======= <<<<<<< HEAD \@setckpt \E
@@ -1979,23 +1957,32 @@ TC.
                 }
 <*> master.tex
               
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+? 
 
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
 ! Emergency stop.
-<*> master.tex
-              
-*** (job aborted, no legal \end found)
-
- 
-Here is how much of TeX's memory you used:
- 41932 strings out of 493089
- 934348 string characters out of 6134841
- 1161108 words of memory out of 5000000
- 44784 multiletter control sequences out of 15000+600000
- 5392 words of font info for 18 fonts, out of 8000000 for 9000
- 1142 hyphenation exceptions out of 8191
- 57i,0n,92p,10426b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+<*> 
+    
+End o
